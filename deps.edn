@@ -4,7 +4,9 @@
         com.github.seancorfield/next.jdbc {:mvn/version "1.2.796"}
         ring/ring {:mvn/version "1.9.5"}
         compojure/compojure                 {:mvn/version "1.6.2"}
-        org.xerial/sqlite-jdbc {:mvn/version "3.36.0.3"}}
+        org.xerial/sqlite-jdbc {:mvn/version "3.36.0.3"}
+        hickory/hickory {:mvn/version "0.7.1"}
+        org.jsoup/jsoup {:mvn/version "1.15.3"}}
 
  :aliases {:build {:deps {io.github.clojure/tools.build
                           {:git/tag "v0.8.1" :git/sha "7d40500"}}
