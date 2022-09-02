@@ -1,0 +1,11 @@
+:root {
+  --blu: rgb(63, 145, 204);
+}
+
+a {
+  color: var(--blu);
+}
+
+body {
+  font-family: "Cabin", sans;
+}
