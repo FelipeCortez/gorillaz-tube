@@ -37,7 +37,7 @@
 (defn server []
   (-> #'app
       (wrap-params)
-      (jetty/run-jetty {:port 3001 :join? false})))
+      (jetty/run-jetty {:host "0.0.0.0" :port 3001 :join? false})))
 
 (defn -main [] (server))
 

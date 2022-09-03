@@ -31,9 +31,6 @@
               :href "https://fonts.gstatic.com"
               :rel "preconnect"}]
       (when *reloader?* [:script {:src "/autoreload/reloader.js"}])
-      [:link {:rel "stylesheet"
-              :href "https://fonts.googleapis.com/css2?family=Cabin&display=swap"}]
-
       (metadata page-description)
       etc
       (apply include-js js)

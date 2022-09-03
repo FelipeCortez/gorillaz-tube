@@ -1,101 +1,1179 @@
 <svg width="3293" height="1479" viewBox="0 0 3293 1479" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Tube" clip-path="url(#clip0_5_24)">
+<g clip-path="url(#clip0_5_24)">
 <rect width="3293" height="1479" fill="white"/>
-<g id="Lines">
-<path id="2d-line" d="M145.353 138.646L599.062 592.354C608.438 601.731 621.156 606.998 634.417 606.998L1047.08 606.998C1060.46 606.998 1073.29 612.367 1082.69 621.901L1326.31 869.096C1335.71 878.631 1348.53 883.999 1361.92 883.999C1627.93 883.999 1905.2 883.999 2172.01 883.999C2199.62 883.999 2222 861.613 2222 833.999L2222 720.5C2222 689.572 2196.93 664.5 2166 664.5H2063.01C2049.57 664.5 2036.7 659.093 2027.3 649.497L1860.7 479.504C1851.3 469.908 1838.43 464.5 1824.99 464.5L928.5 464.499L778.711 464.5C765.45 464.5 752.732 459.232 743.355 449.855L583.5 290M2249 435.001L2073.14 259.145C2063.77 249.768 2051.05 244.5 2037.79 244.5L1997 244.5M3154 251.999L2930.64 475.355C2921.27 484.731 2908.55 489.999 2895.29 489.999L2506.5 490.001M965 464.499L928.5 464.499C891.497 464.499 861.5 434.503 861.5 397.499V397.499L861.5 314.499C861.5 275.839 892.84 244.499 931.5 244.499L2053.5 244.5L2335 244.499C2376.97 244.499 2411 278.526 2411 320.499L2411 420.001C2411 458.661 2442.34 490.001 2481 490.001L2506.5 490.001M1778 884H1763.5C1735.89 884 1713.5 906.386 1713.5 934V1344.5M2506.5 490.001L2455.35 490.001C2439.44 490.001 2424.18 496.322 2412.93 507.574L2236.65 683.856C2227.27 693.233 2222 705.95 2222 719.211V724" stroke="#EBDC00" stroke-width="9"/>
-<path id="murdoc-line" d="M139.353 145.646L596.074 600.429C605.445 609.76 618.131 614.998 631.355 614.998L852.5 614.998M3239.5 731L3239.5 1005C3239.5 1036.48 3213.98 1062 3182.5 1062L2644 1062C2612.52 1062 2587 1036.48 2587 1005L2587 927.498C2587 898.227 2563.27 874.498 2534 874.498L1561.83 874.498C1556.5 874.498 1551.39 872.37 1547.63 868.585L1310.67 629.779C1301.28 620.319 1288.5 614.998 1275.18 614.998L852.5 614.998M2587 997.5L2587 1150.38C2587 1156.54 2589.47 1162.43 2593.85 1166.75L2661 1233M3159 1364.5L2812.32 1364.5C2799 1364.5 2786.22 1359.18 2776.83 1349.72L2661 1233M2661 1233H2194.5M251 616.998L251 821.5C251 861.264 283.236 893.5 323 893.5L568.173 893.5C576.027 893.5 583.52 890.201 588.824 884.408L826.581 624.739C832.264 618.532 840.292 614.998 848.707 614.998L852.5 614.998M872.5 176H1262.29C1275.55 176 1288.27 181.268 1297.64 190.645L1351.5 244.5M351 224.5L511.478 224.5C523.343 224.5 534.728 229.186 543.155 237.539L906.459 597.613C917.696 608.75 932.876 614.998 948.696 614.998L959.5 614.998" stroke="black" stroke-width="9"/>
-</g>
-<g id="Bands">
-<g id="Kate Bush">
-<g id="description">
+<path d="M831.003 1325.5L1309.5 1325.5C1342.08 1325.5 1368.5 1299.08 1368.5 1266.5L1368.5 1155L1368.5 955.083C1368.5 920.257 1396.76 892.038 1431.58 892.084L2072.57 892.926C2103.47 892.967 2128.5 918.027 2128.5 948.926L2128.5 1138.5M2509.5 1225L2184.5 1225C2153.57 1225 2128.5 1199.93 2128.5 1169V1138.5M2128.5 1343V1138.5M2128.5 1343L2138.5 1343M2128.5 1343L2118 1343M1350 718L2665.59 717.999C2680.91 717.999 2695.6 711.943 2706.46 701.153L2818.91 589.475C2829.22 579.242 2843.15 573.499 2857.67 573.499L3173.88 573.499C3215.35 573.499 3248.95 607.148 3248.88 648.615L3248 1224.5M1350 718L1350 707.5M1350 718L1350 729.5M3248 1224.5L3258 1224.5M3248 1224.5L3238.5 1224.5M2156 717.999L2108.39 717.999C2096.29 717.999 2084.67 713.229 2076.06 704.723L1853.77 485.122C1845.91 477.355 1835.3 473 1824.25 473L1129.5 472.999C1098.57 472.999 1073.5 498.071 1073.5 528.999L1073.5 837C1073.5 869.032 1047.53 895 1015.5 895L854 895C824.177 895 800 919.176 800 949L800 1234M800 1234L789.5 1234M800 1234L811 1234M1118.5 253.5H2038.43C2049.04 253.5 2059.21 257.714 2066.72 265.216L2249.5 448" stroke="#D52438" stroke-width="9"/>
+<path d="M139.353 145.646L596.074 600.429C605.445 609.76 618.13 614.998 631.354 614.998L852.5 614.998M3240.5 731L3239.67 1005.17C3239.58 1036.58 3214.08 1062 3182.67 1062L2644 1062C2612.52 1062 2587 1036.48 2587 1005L2587 928.498C2587 899.227 2563.27 875.498 2534 875.498L1561.85 875.498C1556.51 875.498 1551.39 873.359 1547.63 869.558L1310.68 629.848C1301.29 620.345 1288.48 614.998 1275.12 614.998L852.5 614.998M2587 997.5L2587 1150.38C2587 1156.54 2589.47 1162.43 2593.85 1166.75L2661 1233M3159 1364.5L2812.32 1364.5C2798.99 1364.5 2786.22 1359.18 2776.83 1349.72L2661 1233M2661 1233L2194.5 1233M251 616.998L251 822.281C251 862.131 283.369 894.401 323.218 894.281L568.224 893.537C576.048 893.514 583.506 890.217 588.79 884.446L826.581 624.739C832.264 618.532 840.292 614.998 848.707 614.998L852.5 614.998M251 616.998L239.5 616.998M251 616.998L261.5 616.998M872.5 176L1262.29 176C1275.55 176 1288.27 181.268 1297.64 190.645L1351.5 244.5M872.5 176L872.5 165M872.5 176L872.5 187M351 224.5L511.478 224.5C523.343 224.5 534.728 229.186 543.155 237.539L906.459 597.613C917.696 608.75 932.876 614.998 948.696 614.998L959.5 614.998L948.696 614.998C932.876 614.998 917.696 608.75 906.459 597.613L543.155 237.539C534.728 229.186 523.343 224.5 511.478 224.5L351 224.5Z" stroke="black" stroke-width="9"/>
+<path d="M351 217.5L515.298 216.602C527.269 216.537 538.773 221.245 547.265 229.684L778 458.998M1354.5 237L2336.5 235.156C2382.31 235.07 2419.5 272.186 2419.5 318V318M3164.5 253.5L2529.72 890.247C2523.18 896.813 2514.29 900.513 2505.02 900.536L2319.5 901M3165 575L2998.14 741.855C2988.77 751.232 2976.05 756.5 2962.79 756.5L2692.49 756.5C2673.93 756.5 2656.12 763.875 2643 777.003L2619 801M140.5 973.5V973.5C140.5 1011.61 171.392 1042.5 209.5 1042.5L521.5 1042.5C562.921 1042.5 596.5 1076.08 596.5 1117.5L596.5 1153.5C596.5 1194.92 562.921 1228.5 521.5 1228.5L215.5 1228.5C174.079 1228.5 140.5 1194.92 140.5 1153.5L140.5 977.893C140.5 936.514 174.014 902.952 215.394 902.894L1550 901L2344.5 901C2385.92 901 2419.5 867.421 2419.5 826L2419.5 318M2419.5 318L2419.5 120M2419.5 120L2429.5 120M2419.5 120L2409 120M2657 1242L1446.5 1242C1407.84 1242 1376.5 1210.66 1376.5 1172V1161M2657 1242L2775.9 1359.12C2785.26 1368.34 2797.86 1373.5 2810.99 1373.5L3156 1373.5M2657 1242L2591.72 1176.72C2584.21 1169.21 2580 1159.04 2580 1148.43V1105.5M1445.5 901H1431.5C1401.12 901 1376.5 925.625 1376.5 956V1161M1376.5 1161V1268.5C1376.5 1304.4 1347.4 1333.5 1311.5 1333.5L830.001 1333.5" stroke="#2B6B97" stroke-width="9"/>
+<path d="M145.353 138.646L599.061 592.354C608.438 601.731 621.156 606.998 634.417 606.998L1047.08 606.998C1060.46 606.998 1073.29 612.367 1082.69 621.901L1326.31 869.096C1335.71 878.631 1348.53 883.999 1361.92 883.999C1627.93 883.999 1905.2 883.999 2172.01 883.999C2199.62 883.999 2222 861.613 2222 833.999L2222 720.5C2222 689.572 2196.93 664.5 2166 664.5H2067.64C2054.42 664.5 2041.74 659.267 2032.37 649.944L1860.63 479.057C1851.26 469.734 1838.58 464.5 1825.36 464.5L928.5 464.499L778.711 464.5C765.45 464.5 752.732 459.232 743.355 449.855L583.5 290M2249 435.001L2073.14 259.145C2063.77 249.768 2051.05 244.5 2037.79 244.5L1997 244.5M3154 251.999L2930.64 475.355C2921.27 484.731 2908.55 489.999 2895.29 489.999L2506.5 490.001M965 464.499L928.5 464.499C891.497 464.499 861.5 434.503 861.5 397.499V397.499L861.5 314.499C861.5 275.839 892.84 244.499 931.5 244.499L2053.5 244.5L2338 244.499C2378.32 244.499 2411 277.183 2411 317.499L2411 420.001C2411 458.661 2442.34 490.001 2481 490.001L2506.5 490.001M1778 884H1763.5C1735.89 884 1713.5 906.386 1713.5 934V1344.5M1713.5 1344.5H1703M1713.5 1344.5H1723.5M2506.5 490.001L2455.35 490.001C2439.44 490.001 2424.18 496.322 2412.93 507.574L2236.65 683.856C2227.27 693.233 2222 705.95 2222 719.211V724" stroke="#EBDC00" stroke-width="9"/>
 <rect x="135.5" y="311.5" width="71" height="26" fill="white"/>
-<text id="Title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="143" y="329.005">Lion Heart</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="143.382" y="329.005">Lion Heart</tspan></text>
 <rect x="135.5" y="311.5" width="71" height="26" stroke="#CDCDCD"/>
-</g>
-<g id="title">
-<text id="Title_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="215" y="329.435">Kate Bush</tspan></text>
-</g>
-</g>
-<g id="Syd Barrett">
-<g id="description_2">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="215.392" y="329.435">Kate Bush</tspan></text>
 <rect x="127.5" y="92.5" width="173" height="26" fill="white"/>
-<text id="Title_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="135" y="110.005">Shine On You Crazy Diamond</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="135.213" y="110.005">Shine On You Crazy Diamond</tspan></text>
 <rect x="127.5" y="92.5" width="173" height="26" stroke="#CDCDCD"/>
-</g>
-<g id="title_2">
-<text id="Title_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="171" y="143.435">Syd Barrett</tspan></text>
-</g>
-</g>
-<g id="Dukes of Stratosphear">
-<g id="title_3">
-<text id="Dukes of Stratosphear_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="178" y="385.435">Dukes of Stratosphear</tspan></text>
-</g>
-<g id="description_3">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="170.47" y="143.435">Syd Barrett</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="177.188" y="385.435">Dukes of Stratosphear</tspan></text>
 <rect x="162.5" y="392.5" width="189" height="26" fill="white"/>
-<text id="Title_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="170" y="410.005">The Psychedelic Warlords of XTC</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="170.184" y="410.005">The Psychedelic Warlords of XTC</tspan></text>
 <rect x="162.5" y="392.5" width="189" height="26" stroke="#CDCDCD"/>
-</g>
-</g>
-<g id="Magazine">
-<g id="title_4">
-<text id="Dukes of Stratosphear_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="336" y="447.435">Magazine</tspan></text>
-</g>
-<g id="description_4">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="336.342" y="447.435">Magazine</tspan></text>
 <rect x="256.5" y="456.5" width="171" height="26" fill="white"/>
-<text id="Title_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="264" y="474.005">The Light Pours Out Of Them</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="264.321" y="474.005">The Light Pours Out Of Them</tspan></text>
 <rect x="256.5" y="456.5" width="171" height="26" stroke="#CDCDCD"/>
-</g>
-</g>
-<g id="Iggy and the Stooges">
-<g id="title_5">
-<text id="Dukes of Stratosphear_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="316" y="509.435">Iggy and the Stooges</tspan></text>
-</g>
-<g id="description_5">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="315.073" y="509.435">Iggy and the Stooges</tspan></text>
 <rect x="359.5" y="519.5" width="131" height="26" fill="white"/>
-<text id="Title_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="367" y="537.005">The Cavemen of Rock</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="367.113" y="537.005">The Cavemen of Rock</tspan></text>
 <rect x="359.5" y="519.5" width="131" height="26" stroke="#CDCDCD"/>
-</g>
-</g>
-<g id="The Rolling Stones">
-<g id="title_6">
-<text id="Dukes of Stratosphear_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="399" y="580.435">The Rolling Stones</tspan></text>
-</g>
-<g id="description_6">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="399.424" y="580.435">The Rolling Stones</tspan></text>
 <rect x="422.5" y="587.5" width="138" height="26" fill="white"/>
-<text id="Title_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="430" y="605.005">America&#x2019;s Finest Export</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="430.352" y="605.005">America&#x2019;s Finest Export</tspan></text>
 <rect x="422.5" y="587.5" width="138" height="26" stroke="#CDCDCD"/>
-</g>
-</g>
-</g>
-<g id="Intersections">
-<g id="intersection">
-<circle id="Intersection" cx="138.5" cy="138.5" r="9.5" fill="white" stroke="black" stroke-width="4"/>
-</g>
-<g id="intersection_2">
-<circle id="Intersection_2" cx="589" cy="282" r="12" fill="white" stroke="black" stroke-width="4"/>
-</g>
-<g id="intersection_3">
-<circle id="Intersection_3" cx="350.5" cy="220.5" r="9.5" fill="white" stroke="black" stroke-width="4"/>
-</g>
-</g>
-<g id="Stops">
-<g id="stop">
-<rect id="stop_2" x="768" y="594" width="6" height="12" fill="#EBDC00"/>
-</g>
-<g id="stop_3">
-<rect width="6" height="13" transform="translate(363.192 368) rotate(45)" fill="black"/>
-<rect id="stop_4" x="363.192" y="368" width="6" height="12" transform="rotate(45 363.192 368)" fill="black"/>
-</g>
-<g id="stop_5">
-<rect id="stop_6" x="887" y="607" width="6" height="12" fill="#EBDC00"/>
-</g>
-<g id="stop_7">
-<rect id="stop_8" x="973" y="594" width="6" height="12" fill="#EBDC00"/>
-</g>
-<g id="stop_9">
-<rect id="stop_10" x="369.192" y="362" width="6" height="12" transform="rotate(45 369.192 362)" fill="#EBDC00"/>
-</g>
-</g>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="615.422" y="648.435">Small Faces</tspan></text>
+<rect x="600.5" y="658.5" width="129" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="608.995" y="676.005">Here Come The Nice.&#10;</tspan><tspan x="608.368" y="691.005">Small faces, Big Icons</tspan></text>
+<rect x="600.5" y="658.5" width="129" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="833.21" y="649.435">The Stranglers</tspan></text>
+<rect x="828.5" y="659.5" width="117" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="836.446" y="677.005">The Rutting Stones</tspan></text>
+<rect x="828.5" y="659.5" width="117" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="869.107" y="872.435">Dionne Warwick</tspan></text>
+<rect x="879.5" y="810.5" width="102" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="892.552" y="828.005">She Knew The&#10;</tspan><tspan x="887.095" y="843.005">Way To San Jos&#xe9;</tspan></text>
+<rect x="879.5" y="810.5" width="102" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="707.197" y="886.435">Public Enemy</tspan></text>
+<rect x="682.5" y="822.5" width="157" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="690.377" y="840.005">The War Cabinet Ministers.&#10;</tspan><tspan x="691.232" y="855.005">Home of the Bomb Squad</tspan></text>
+<rect x="682.5" y="822.5" width="157" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="726.424" y="586.435">Tito Puente</tspan></text>
+<rect x="734.5" y="539.5" width="68" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="742.266" y="557.005">Tito&#x2019;s Way</tspan></text>
+<rect x="734.5" y="539.5" width="68" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="277.322" y="214.435">Sly and&#10;</tspan><tspan x="278.799" y="236.435">Robbie</tspan></text>
+<rect x="255.5" y="152.5" width="99" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="263.312" y="170.005">The Premiers of&#10;</tspan><tspan x="264.77" y="185.005">Drum and Bass</tspan></text>
+<rect x="255.5" y="152.5" width="99" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="388.263" y="197.435">Prince Buster</tspan></text>
+<rect x="384.5" y="134.5" width="103" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="400.47" y="152.005">The Ska Lord.&#10;</tspan><tspan x="392.318" y="167.005">The Judge Dread</tspan></text>
+<rect x="384.5" y="134.5" width="103" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="568.086" y="219.435">Johnny Harris</tspan></text>
+<rect x="541.5" y="173.5" width="147" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="549.244" y="191.005">The Rock Star Conductor</tspan></text>
+<rect x="541.5" y="173.5" width="147" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="652.287" y="291.435">Keith&#10;</tspan><tspan x="649.378" y="313.435">Moon</tspan></text>
+<rect x="638.5" y="248.5" width="65" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="646.464" y="266.005">Dear Boy</tspan></text>
+<rect x="638.5" y="248.5" width="65" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="753.09" y="310.435">The Beatles</tspan></text>
+<rect x="717.5" y="263.5" width="122" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="725.178" y="281.005">Rutles Rip-Off Band</tspan></text>
+<rect x="717.5" y="263.5" width="122" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="725.212" y="387.435">Be-Bop Deluxe</tspan></text>
+<rect x="707.5" y="324.5" width="127" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="715.124" y="342.005">Mutant Metal Pirates.&#10;</tspan><tspan x="737.5" y="357.005">Noise Candy</tspan></text>
+<rect x="707.5" y="324.5" width="127" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="425.448" y="254.435">Horace Andy</tspan></text>
+<rect x="430.5" y="264.5" width="86" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="438.069" y="282.005">The Skylarker</tspan></text>
+<rect x="430.5" y="264.5" width="86" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="458.056" y="317.435">Giorgio Moroder</tspan></text>
+<rect x="444.5" y="326.5" width="145" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="452.4" y="344.005">Don&#x2019;t Score Me Scarface</tspan></text>
+<rect x="444.5" y="326.5" width="145" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="555.259" y="391.435">The Specials</tspan></text>
+<rect x="488.5" y="400.5" width="168" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="496.039" y="418.005">The Concrete Urban Junglists</tspan></text>
+<rect x="488.5" y="400.5" width="168" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="674.032" y="440.435">P.I.L</tspan></text>
+<rect x="520.5" y="450.5" width="189" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="528.049" y="468.005">When Dark Dub Met Metal Disco</tspan></text>
+<rect x="520.5" y="450.5" width="189" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="722.336" y="489.435">Jackie&#10;</tspan><tspan x="718.451" y="511.435">Mittoo</tspan></text>
+<rect x="594.5" y="491.5" width="113" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="602.009" y="509.005">A one man Booker&#10;</tspan><tspan x="616.959" y="524.005">T &#38; The MG&#x2019;s</tspan></text>
+<rect x="594.5" y="491.5" width="113" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="866.45" y="530.435">Sheila E</tspan></text>
+<rect x="853.5" y="483.5" width="108" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="861.185" y="501.005">Prince&#x2019;s First Lady</tspan></text>
+<rect x="853.5" y="483.5" width="108" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="919" y="586.435">Jerry Goldsmith</tspan></text>
+<rect x="919.5" y="539.5" width="113" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="927.409" y="557.005">The Logun Runner</tspan></text>
+<rect x="919.5" y="539.5" width="113" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="940.318" y="226.435">Os Mutantes</tspan></text>
+<rect x="787.5" y="207.5" width="141" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="795.412" y="225.005">The Brazilian Pink Floyd</tspan></text>
+<rect x="787.5" y="207.5" width="141" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1006.73" y="276.435">Nancy Sinatra&#10;</tspan><tspan x="993.441" y="298.435">&#38; Lee Hazlewood</tspan></text>
+<rect x="990.5" y="303.5" width="130" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="998.425" y="321.005">Cowboy Psychedelics</tspan></text>
+<rect x="990.5" y="303.5" width="130" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1164.14" y="286.435">Glen Campbell</tspan></text>
+<rect x="1156.5" y="293.5" width="130" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1164.41" y="311.005">The Wichita Line Man</tspan></text>
+<rect x="1156.5" y="293.5" width="130" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1318.41" y="286.435">The Who</tspan></text>
+<rect x="1310.5" y="295.5" width="85" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1318.11" y="313.005">The Fantastic&#10;</tspan><tspan x="1341.22" y="328.005">Four</tspan></text>
+<rect x="1310.5" y="295.5" width="85" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1470.11" y="286.435">Jimmy Cliff</tspan></text>
+<rect x="1445.5" y="294.5" width="139" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1453.25" y="312.005">The Sound of Sunshine</tspan></text>
+<rect x="1445.5" y="294.5" width="139" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1606.46" y="286.435">Ryuichi Sakamoto</tspan></text>
+<rect x="1624.5" y="294.5" width="105" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1632.28" y="312.005">Merry Christmas,&#10;</tspan><tspan x="1640.38" y="327.005">Mr. Sakamoto</tspan></text>
+<rect x="1624.5" y="294.5" width="105" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1952.48" y="279.435">De La Soul</tspan></text>
+<rect x="1901.5" y="287.5" width="157" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1909.08" y="305.005">Three is the Magic Number</tspan></text>
+<rect x="1901.5" y="287.5" width="157" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2055.12" y="340.435">Blondie</tspan></text>
+<rect x="1908.5" y="322.5" width="132" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1916.21" y="340.005">New York Disco Punks</tspan></text>
+<rect x="1908.5" y="322.5" width="132" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2084.09" y="396.435">New Order</tspan></text>
+<rect x="2003.5" y="379.5" width="71" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2011.24" y="397.005">Substance</tspan></text>
+<rect x="2003.5" y="379.5" width="71" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2270.11" y="437.435">Massive&#10;</tspan><tspan x="2276.19" y="459.435">Attack</tspan></text>
+<rect x="2258.5" y="374.5" width="101" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2280.91" y="392.005">The Bristol&#10;</tspan><tspan x="2266.04" y="407.005">Dub Foundation</tspan></text>
+<rect x="2258.5" y="374.5" width="101" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2158.06" y="276.435">Dr. Alimantado</tspan></text>
+<rect x="2143.5" y="284.5" width="148" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2151.26" y="302.005">The Original Collaborator</tspan></text>
+<rect x="2143.5" y="284.5" width="148" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1216.21" y="211.435">Television</tspan></text>
+<rect x="1117.5" y="193.5" width="87" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1125.41" y="211.005">The Satellites</tspan></text>
+<rect x="1117.5" y="193.5" width="87" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="715.382" y="182.435">Kool and the Gang</tspan></text>
+<rect x="737.5" y="136.5" width="100" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="745.018" y="154.005">The Jungle Book</tspan></text>
+<rect x="737.5" y="136.5" width="100" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="939.371" y="159.435">Rare Earth</tspan></text>
+<rect x="917.5" y="95.5" width="121" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="925.373" y="113.005">You Don&#x2019;t Get Many&#10;</tspan><tspan x="932.879" y="128.005">Bands Like Them</tspan></text>
+<rect x="917.5" y="95.5" width="121" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1048.16" y="159.435">Adam and the Ants</tspan></text>
+<rect x="1076.5" y="95.5" width="84" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1085.87" y="113.005">Kings of The&#10;</tspan><tspan x="1084.33" y="128.005">Wild Frontier</tspan></text>
+<rect x="1076.5" y="95.5" width="84" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1217.23" y="159.435">Cheap Trick</tspan></text>
+<rect x="1212.5" y="95.5" width="96" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1227.12" y="113.005">Kiss Without&#10;</tspan><tspan x="1220.17" y="128.005">All the Bollocks</tspan></text>
+<rect x="1212.5" y="95.5" width="96" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1390.43" y="215.435">Marvin Gaye</tspan></text>
+<rect x="1358.5" y="169.5" width="157" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1366.42" y="187.005">The Consciousness of Soul</tspan></text>
+<rect x="1358.5" y="169.5" width="157" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1551.05" y="215.435">Ray Barretto</tspan></text>
+<rect x="1532.5" y="170.5" width="134" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1540.45" y="188.005">The Latin Soul Brother</tspan></text>
+<rect x="1532.5" y="170.5" width="134" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1722.17" y="216.435">Brian Eno</tspan></text>
+<rect x="1710.5" y="169.5" width="96" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1718.32" y="187.005">God Only Eno&#x2019;s</tspan></text>
+<rect x="1710.5" y="169.5" width="96" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1852.48" y="216.435">Sugarhill Gang</tspan></text>
+<rect x="1844.5" y="168.5" width="124" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1852.33" y="186.005">The Rapper&#x2019;s Delight</tspan></text>
+<rect x="1844.5" y="168.5" width="124" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2038.39" y="216.435">A Tribe Called Quest</tspan></text>
+<rect x="2046.5" y="151.5" width="137" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2054.05" y="169.005">Hip Hop&#x2019;s First Infantry.&#10;</tspan><tspan x="2064.56" y="184.005">The Ground Troops</tspan></text>
+<rect x="2046.5" y="151.5" width="137" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2275.29" y="196.435">Sly and the&#10;</tspan><tspan x="2268.34" y="218.435">Family Stone</tspan></text>
+<rect x="2262.5" y="151.5" width="116" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2270.08" y="169.005">Everybody is a Star</tspan></text>
+<rect x="2262.5" y="151.5" width="116" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2381.01" y="110.435">Kool Herc</tspan></text>
+<rect x="2463.5" y="90.5" width="193" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2471.12" y="108.005">Two Turntables and a Microphone</tspan></text>
+<rect x="2463.5" y="90.5" width="193" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2439.25" y="167.435">Trouble Funk</tspan></text>
+<rect x="2553.5" y="148.5" width="101" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2561.17" y="166.005">Full Tilt a Go-Go</tspan></text>
+<rect x="2553.5" y="148.5" width="101" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2440.37" y="215.435">Earl Palmer</tspan></text>
+<rect x="2542.5" y="197.5" width="87" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2550.35" y="215.005">The Backbeat</tspan></text>
+<rect x="2542.5" y="197.5" width="87" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2441.35" y="263.435">Big Youth</tspan></text>
+<rect x="2542.5" y="244.5" width="230" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2550.36" y="262.005">The Human Gleaner. The Electric Toaster</tspan></text>
+<rect x="2542.5" y="244.5" width="230" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2440.26" y="312.435">Missy Elliott</tspan></text>
+<rect x="2542.5" y="293.5" width="105" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2550.16" y="311.005">Miss Demeanour</tspan></text>
+<rect x="2542.5" y="293.5" width="105" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2441.08" y="361.435">Herbie Hancock</tspan></text>
+<rect x="2445.5" y="369.5" width="130" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2453.14" y="387.005">God Made Him Funky</tspan></text>
+<rect x="2445.5" y="369.5" width="130" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2438.1" y="418.435">Can</tspan></text>
+<rect x="2461.5" y="424.5" width="124" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2469.1" y="442.005">German Engineering&#10;</tspan><tspan x="2492.49" y="457.005">At Its Finest</tspan></text>
+<rect x="2461.5" y="424.5" width="124" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2629.26" y="471.435">Buzzcocks</tspan></text>
+<rect x="2622.5" y="425.5" width="90" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2630.38" y="443.005">Punk&#x2019;s Beatles</tspan></text>
+<rect x="2622.5" y="425.5" width="90" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2820.5" y="472.435">Roxy Music</tspan></text>
+<rect x="2775.5" y="425.5" width="149" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2783.06" y="443.005">Should&#x2019;ve Stuck Together</tspan></text>
+<rect x="2775.5" y="425.5" width="149" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2864.46" y="398.435">Thomas Dolby</tspan></text>
+<rect x="2744.5" y="349.5" width="245" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2752.46" y="367.005">Budapest By Blimp. The Electro High-Roller</tspan></text>
+<rect x="2744.5" y="349.5" width="245" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2961.19" y="317.435">The Congos</tspan></text>
+<rect x="2824.5" y="300.5" width="124" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2832.06" y="318.005">Heart of The Congos</tspan></text>
+<rect x="2824.5" y="300.5" width="124" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3070.07" y="254.435">Fela Kuti</tspan></text>
+<rect x="2909.5" y="236.5" width="147" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2917.1" y="254.005">The African James Brown</tspan></text>
+<rect x="2909.5" y="236.5" width="147" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3142.17" y="314.435">Tony Allen</tspan></text>
+<rect x="3133.5" y="322.5" width="100" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3141.47" y="340.005">Afro&#x2019;s Heartbeat</tspan></text>
+<rect x="3133.5" y="322.5" width="100" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3062.04" y="396.435">Augustus Pablo</tspan></text>
+<rect x="3049.5" y="404.5" width="132" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3057.37" y="422.005">The Melodica Maestro</tspan></text>
+<rect x="3049.5" y="404.5" width="132" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2980.15" y="470.435">Harold&#10;</tspan><tspan x="2960.08" y="492.435">Faltermeyer</tspan></text>
+<rect x="3070.5" y="459.5" width="145" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3078.14" y="477.005">The Beverly Hills Copper</tspan></text>
+<rect x="3070.5" y="459.5" width="145" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2961.1" y="553.435">Bo Diddley</tspan></text>
+<rect x="2942.5" y="506.5" width="117" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2950.22" y="524.005">The Black Gladiator</tspan></text>
+<rect x="2942.5" y="506.5" width="117" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3112.1" y="552.435">The Skatalites</tspan></text>
+<rect x="3097.5" y="506.5" width="131" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3105.42" y="524.005">The Studio One Mafia</tspan></text>
+<rect x="3097.5" y="506.5" width="131" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3142.29" y="645.435">Aphrodite&#x2019;s&#10;</tspan><tspan x="3164.59" y="667.435">Child</tspan></text>
+<rect x="3102.5" y="673.5" width="125" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3110.06" y="691.005">Greek Space Rockers</tspan></text>
+<rect x="3102.5" y="673.5" width="125" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3035.02" y="632.435">U-Roy</tspan></text>
+<rect x="2962.5" y="586.5" width="138" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2970.34" y="604.005">Rastaman Ambassador</tspan></text>
+<rect x="2962.5" y="586.5" width="138" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2832.19" y="624.435">Timbaland</tspan></text>
+<rect x="2817.5" y="632.5" width="150" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2825.04" y="650.005">The Virginia Beach Whale</tspan></text>
+<rect x="2817.5" y="632.5" width="150" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2748.33" y="712.435">Quincy Jones</tspan></text>
+<rect x="2859.5" y="695.5" width="67" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2867.06" y="713.005">The Dude</tspan></text>
+<rect x="2859.5" y="695.5" width="67" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2637.43" y="630.435">Gregory Isaacs</tspan></text>
+<rect x="2647.5" y="584.5" width="93" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2655.3" y="602.005">The Cool Ruler</tspan></text>
+<rect x="2647.5" y="584.5" width="93" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2715.36" y="522.435">Gang of Four</tspan></text>
+<rect x="2650.5" y="531.5" width="145" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2658.44" y="549.005">Over the Counter Speed</tspan></text>
+<rect x="2650.5" y="531.5" width="145" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2453.35" y="524.435">The Human League</tspan></text>
+<rect x="2453.5" y="532.5" width="145" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2474.31" y="550.005">The Sheffield Steel.&#10;</tspan><tspan x="2461.42" y="565.005">The Sound of the Crowd</tspan></text>
+<rect x="2453.5" y="532.5" width="145" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2443.74" y="676.435">Henry&#10;</tspan><tspan x="2437.47" y="698.435">Mancini</tspan></text>
+<rect x="2438.5" y="629.5" width="105" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2446.19" y="647.005">The Pink Panther</tspan></text>
+<rect x="2438.5" y="629.5" width="105" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2250.31" y="700.435">Ennio Morricone</tspan></text>
+<rect x="2305.5" y="635.5" width="81" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2313.09" y="653.005">The Violin in&#10;</tspan><tspan x="2319.46" y="668.005">a Suitcase</tspan></text>
+<rect x="2305.5" y="635.5" width="81" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2087.3" y="645.435">Roy Budd</tspan></text>
+<rect x="2080.5" y="598.5" width="88" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2088.12" y="616.005">He Got Carter</tspan></text>
+<rect x="2080.5" y="598.5" width="88" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1998.03" y="584.435">Stockhausen</tspan></text>
+<rect x="1977.5" y="535.5" width="176" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1985.25" y="553.005">The Salvador Dali Soundsmith</tspan></text>
+<rect x="1977.5" y="535.5" width="176" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1928.06" y="518.435">Squeeze</tspan></text>
+<rect x="1916.5" y="472.5" width="146" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1924.08" y="490.005">Take Me Up The Junction</tspan></text>
+<rect x="1916.5" y="472.5" width="146" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1735.03" y="513.435">New York Dolls</tspan></text>
+<rect x="1579.5" y="495.5" width="143" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1587.19" y="513.005">The Glam Rock B-Movie</tspan></text>
+<rect x="1579.5" y="495.5" width="143" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1829.33" y="582.435">X-Ray Spex</tspan></text>
+<rect x="1656.5" y="564.5" width="161" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1664.17" y="582.005">The Germ Free Adolescents</tspan></text>
+<rect x="1656.5" y="564.5" width="161" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1928.02" y="661.435">John Barry</tspan></text>
+<rect x="1728.5" y="634.5" width="178" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1753.72" y="652.005">Pan Am&#x2019;s String Section.&#10;</tspan><tspan x="1736.02" y="667.005">The Man with The Midas Touch</tspan></text>
+<rect x="1728.5" y="634.5" width="178" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1602.33" y="701.435">Sonic Youth</tspan></text>
+<rect x="1608.5" y="637.5" width="82" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1624.33" y="655.005">Feedback&#10;</tspan><tspan x="1616.06" y="670.005">Cosmonauts</tspan></text>
+<rect x="1608.5" y="637.5" width="82" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1395.12" y="701.435">Bernard Hermann</tspan></text>
+<rect x="1392.5" y="637.5" width="185" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1401.37" y="655.005">Psycho Killer, Qu&#x2019;est Que C&#x2019;est ?&#10;</tspan><tspan x="1400.41" y="670.005">The Long Dark Night of the Soul</tspan></text>
+<rect x="1392.5" y="637.5" width="185" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1214.11" y="724.435">Derek and Clive</tspan></text>
+<rect x="1246.5" y="731.5" width="85" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1254.02" y="749.005">Come Again?</tspan></text>
+<rect x="1246.5" y="731.5" width="85" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="758.378" y="744.435">Black Sabbath</tspan></text>
+<rect x="738.5" y="752.5" width="201" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="746.093" y="770.005">Brummies Who Invented The Devil</tspan></text>
+<rect x="738.5" y="752.5" width="201" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1361.35" y="504.435">Sparks</tspan></text>
+<rect x="1294.5" y="512.5" width="197" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1318.41" y="530.005">The Maelstrom. This Town Is&#10;</tspan><tspan x="1302.5" y="545.005">Big Enough For The Both Of Them</tspan></text>
+<rect x="1294.5" y="512.5" width="197" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1131.44" y="504.435">Talking Heads</tspan></text>
+<rect x="1120.5" y="512.5" width="129" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1128.28" y="530.005">Funk Rock&#x2019;s Basquiats</tspan></text>
+<rect x="1120.5" y="512.5" width="129" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1153.08" y="670.435">Jam</tspan></text>
+<rect x="1132.5" y="625.5" width="143" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1140.02" y="643.005">The Great British Fry-Up</tspan></text>
+<rect x="1132.5" y="625.5" width="143" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1320.29" y="617.435">Tony Bennett</tspan></text>
+<rect x="1432.5" y="598.5" width="90" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1440.25" y="616.005">The Goodfella</tspan></text>
+<rect x="1432.5" y="598.5" width="90" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1086.25" y="599.435">The Slits</tspan></text>
+<rect x="1163.5" y="580.5" width="135" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1171.13" y="598.005">The Original Riot Grrrls</tspan></text>
+<rect x="1163.5" y="580.5" width="135" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1761.47" y="443.435">The Fall</tspan></text>
+<rect x="1726.5" y="397.5" width="130" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1734.27" y="415.005">The Hip Priest&#x2019;s Outfit</tspan></text>
+<rect x="1726.5" y="397.5" width="130" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1587.35" y="444.435">Scott Walker</tspan></text>
+<rect x="1559.5" y="367.5" width="145" height="56" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1575.83" y="385.005">Troubadour, Matador,&#10;</tspan><tspan x="1567.33" y="400.005">Torchholder. The Cecil B.&#10;</tspan><tspan x="1576.16" y="415.005">DeMille of Heartache</tspan></text>
+<rect x="1559.5" y="367.5" width="145" height="56" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1477.14" y="444.435">Devo</tspan></text>
+<rect x="1458.5" y="382.5" width="78" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1466.46" y="400.005">The Musical&#10;</tspan><tspan x="1466.52" y="415.005">Mongoloids</tspan></text>
+<rect x="1458.5" y="382.5" width="78" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1235.21" y="444.435">David Bowie</tspan></text>
+<rect x="1227.5" y="382.5" width="115" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1235.01" y="400.005">The Wild Eyed Boy&#10;</tspan><tspan x="1243.71" y="415.005">From Freecloud</tspan></text>
+<rect x="1227.5" y="382.5" width="115" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1011.41" y="444.435">Big Audio Dynamite</tspan></text>
+<rect x="1005.5" y="397.5" width="165" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1013.32" y="415.005">The Ladbroke Globe Trotters</tspan></text>
+<rect x="1005.5" y="397.5" width="165" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="884.322" y="414.435">Grange Hill</tspan></text>
+<rect x="907.5" y="423.5" width="82" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="915.222" y="441.005">School&#x2019;s Out</tspan></text>
+<rect x="907.5" y="423.5" width="82" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="880.304" y="333.435">Stanley&#10;</tspan><tspan x="886.271" y="355.435">Myers</tspan></text>
+<rect x="887.5" y="361.5" width="185" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="895.356" y="379.005">The Sitting Target. Stan the Man</tspan></text>
+<rect x="887.5" y="361.5" width="185" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2324.04" y="508.435">The Band</tspan></text>
+<rect x="2203.5" y="490.5" width="109" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2211.25" y="508.005">The Last Waltzers</tspan></text>
+<rect x="2203.5" y="490.5" width="109" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2229.36" y="576.435">Jonathan&#10;</tspan><tspan x="2229.52" y="598.435">Richman</tspan></text>
+<rect x="2190.5" y="529.5" width="145" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2198.23" y="547.005">The Original Roadrunner</tspan></text>
+<rect x="2190.5" y="529.5" width="145" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2538.39" y="698.435">Yello</tspan></text>
+<rect x="2563.5" y="651.5" width="111" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2571.07" y="669.005">Big Swiss Cheeses</tspan></text>
+<rect x="2563.5" y="651.5" width="111" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3159.17" y="736.435">Vangelis</tspan></text>
+<rect x="3112.5" y="745.5" width="110" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3120.47" y="763.005">The Blade Runner</tspan></text>
+<rect x="3112.5" y="745.5" width="110" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3126.22" y="816.435">Lalo Schifrin</tspan></text>
+<rect x="3018.5" y="825.5" width="201" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3026.23" y="843.005">Dirty Harry. He Entered the Dragon</tspan></text>
+<rect x="3018.5" y="825.5" width="201" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3122.49" y="874.435">Jorge Ben Jor</tspan></text>
+<rect x="3094.5" y="883.5" width="124" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3102.23" y="901.005">The Brazilian Welder</tspan></text>
+<rect x="3094.5" y="883.5" width="124" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3107.26" y="934.435">Carlos Santana</tspan></text>
+<rect x="3037.5" y="944.5" width="182" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3045.05" y="962.005">The Cheech Marin of Latin Rock</tspan></text>
+<rect x="3037.5" y="944.5" width="182" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3102.21" y="1000.43">John Carpenter</tspan></text>
+<rect x="3113.5" y="1008.5" width="87" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3121.11" y="1026">The Dark Star</tspan></text>
+<rect x="3113.5" y="1008.5" width="87" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2885.36" y="1041.43">Tangerine Dream</tspan></text>
+<rect x="2905.5" y="979.5" width="89" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2915.02" y="997.005">German Prog&#10;</tspan><tspan x="2913.34" y="1012">Electro Heads</tspan></text>
+<rect x="2905.5" y="979.5" width="89" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2754.25" y="1040.43">Rammstein</tspan></text>
+<rect x="2735.5" y="993.5" width="155" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2743.16" y="1011">Fire-Breathing Metalheads</tspan></text>
+<rect x="2735.5" y="993.5" width="155" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2642.49" y="1041.43">Thin Lizzy</tspan></text>
+<rect x="2634.5" y="979.5" width="87" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2642.03" y="997.005">The Four Leaf&#10;</tspan><tspan x="2658.38" y="1012">Clovers</tspan></text>
+<rect x="2634.5" y="979.5" width="87" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3118.4" y="1345.43">Tom Waits</tspan></text>
+<rect x="3077.5" y="1298.5" width="164" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3085.39" y="1316">The Nighthawk At The Diner</tspan></text>
+<rect x="3077.5" y="1298.5" width="164" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3221.33" y="1252.43">Sun Ra</tspan></text>
+<rect x="3111.5" y="1203.5" width="114" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3119.36" y="1221">The Sonic Arkestra</tspan></text>
+<rect x="3111.5" y="1203.5" width="114" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3065.17" y="1093.43">Wendy Carlos</tspan></text>
+<rect x="3077.5" y="1101.5" width="126" height="56" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3085.5" y="1119">The Synth-Classicist.&#10;</tspan><tspan x="3087.29" y="1134">Angel Trumpets and&#10;</tspan><tspan x="3095.4" y="1149">Devil Trombones</tspan></text>
+<rect x="3077.5" y="1101.5" width="126" height="56" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2997.25" y="1093.43">The &#10;</tspan><tspan x="2979.3" y="1115.43">Ronettes</tspan></text>
+<rect x="2975.5" y="1123.5" width="78" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2983.15" y="1141">Be My Baby</tspan></text>
+<rect x="2975.5" y="1123.5" width="78" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2834.44" y="1093.43">Kid Creole and&#10;</tspan><tspan x="2837.4" y="1115.43">The Coconuts</tspan></text>
+<rect x="2822.5" y="1123.5" width="135" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2830.36" y="1141">The Tropical Gangsters</tspan></text>
+<rect x="2822.5" y="1123.5" width="135" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2664.35" y="1093.43">Guns &#x2018;n Roses</tspan></text>
+<rect x="2644.5" y="1099.5" width="140" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2652.36" y="1117">Welcome To The Jungle</tspan></text>
+<rect x="2644.5" y="1099.5" width="140" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2943.37" y="1345.43">Happy Mondays</tspan></text>
+<rect x="2964.5" y="1282.5" width="75" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2972.06" y="1300">Playground&#10;</tspan><tspan x="2973.97" y="1315">Superstars</tspan></text>
+<rect x="2964.5" y="1282.5" width="75" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2823.33" y="1345.43">Rick James</tspan></text>
+<rect x="2814.5" y="1298.5" width="100" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2822.04" y="1316">The Super Freak</tspan></text>
+<rect x="2814.5" y="1298.5" width="100" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2721.02" y="1267.43">2 Live Crew</tspan></text>
+<rect x="2817.5" y="1249.5" width="241" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2825.02" y="1267">Skyywalker&#x2019;s Potty-Mouthed Bootie Lovers</tspan></text>
+<rect x="2817.5" y="1249.5" width="241" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2677.47" y="1218.43">Eric B. &#38;&#10;</tspan><tspan x="2684.46" y="1240.43">Rakim</tspan></text>
+<rect x="2658.5" y="1169.5" width="112" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2666.23" y="1187">Starsky and Hutch</tspan></text>
+<rect x="2658.5" y="1169.5" width="112" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2607.12" y="956.435">Captain Beefheart</tspan></text>
+<rect x="2760.5" y="938.5" width="133" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2768.44" y="956.005">The Magic Bandleader</tspan></text>
+<rect x="2760.5" y="938.5" width="133" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2608.26" y="920.435">Serge Gainsbourg</tspan></text>
+<rect x="2753.5" y="902.5" width="100" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2761.12" y="920.005">L&#x2019;Enfant Terrible</tspan></text>
+<rect x="2753.5" y="902.5" width="100" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2576.47" y="874.435">Lee Perry</tspan></text>
+<rect x="2660.5" y="855.5" width="132" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2668.18" y="873.005">The Black Arc Arsonist</tspan></text>
+<rect x="2660.5" y="855.5" width="132" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2663.14" y="789.435">Dizzie Gillespie</tspan></text>
+<rect x="2672.5" y="797.5" width="101" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2680.12" y="815.005">The Cheeky Boy</tspan></text>
+<rect x="2672.5" y="797.5" width="101" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2495.07" y="783.435">Harry J. Allstars</tspan></text>
+<rect x="2513.5" y="736.5" width="92" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2521.47" y="754.005">The Liquidator</tspan></text>
+<rect x="2513.5" y="736.5" width="92" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2436.08" y="859.435">King Tubby</tspan></text>
+<rect x="2447.5" y="809.5" width="149" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2455.47" y="827.005">The Jamaican Remix King</tspan></text>
+<rect x="2447.5" y="809.5" width="149" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2241.01" y="753.435">The Beach Boys</tspan></text>
+<rect x="2248.5" y="758.5" width="86" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2256.41" y="776.005">The Surf&#x2019;s Up</tspan></text>
+<rect x="2248.5" y="758.5" width="86" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2113.06" y="753.435">Mantronix</tspan></text>
+<rect x="2090.5" y="759.5" width="113" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2098.27" y="777.005">Kings of The Beats</tspan></text>
+<rect x="2090.5" y="759.5" width="113" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1973.18" y="753.435">Cameo</tspan></text>
+<rect x="1968.5" y="759.5" width="66" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1976" y="777.005">Word Up!</tspan></text>
+<rect x="1968.5" y="759.5" width="66" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1760.12" y="753.435">Yellow Magic Orchestra</tspan></text>
+<rect x="1792.5" y="759.5" width="118" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1800.09" y="777.005">The Space Invaders</tspan></text>
+<rect x="1792.5" y="759.5" width="118" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1451.47" y="753.435">Robert Palmer</tspan></text>
+<rect x="1568.5" y="737.5" width="72" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1576.42" y="755.005">Mr. Muscle</tspan></text>
+<rect x="1568.5" y="737.5" width="72" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1499.23" y="796.435">Barrington Levy</tspan></text>
+<rect x="1629.5" y="778.5" width="134" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1637.48" y="796.005">When the Levy Breaks</tspan></text>
+<rect x="1629.5" y="778.5" width="134" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1530.41" y="832.435">&#x2018;Sir Coxsone&#x2019;&#10;</tspan><tspan x="1556.58" y="854.435">Dodd</tspan></text>
+<rect x="1645.5" y="824.5" width="129" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1653.2" y="842.005">Reggae&#x2019;s Own Dr. Dre</tspan></text>
+<rect x="1645.5" y="824.5" width="129" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1337.19" y="863.435">Grandmaster Flash</tspan></text>
+<rect x="1333.5" y="817.5" width="143" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1341.38" y="835.005">The Postmaster General</tspan></text>
+<rect x="1333.5" y="817.5" width="143" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1957.15" y="854.435">The Clash</tspan></text>
+<rect x="1902.5" y="807.5" width="144" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1910" y="825.005">How the West Was Won</tspan></text>
+<rect x="1902.5" y="807.5" width="144" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2105.33" y="818.435">The Wurzels</tspan></text>
+<rect x="2060.5" y="824.5" width="134" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2068.27" y="842.005">Scrumpy and Western</tspan></text>
+<rect x="2060.5" y="824.5" width="134" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2154.17" y="935.435">Buddy Rich</tspan></text>
+<rect x="2174.5" y="945.5" width="51" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2182.4" y="963.005">Stick it</tspan></text>
+<rect x="2174.5" y="945.5" width="51" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2005.06" y="935.435">Bob Marley</tspan></text>
+<rect x="2004.5" y="945.5" width="90" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2012.1" y="963.005">The Tuff Gong</tspan></text>
+<rect x="2004.5" y="945.5" width="90" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1868.03" y="935.435">Ibrahim Ferrer</tspan></text>
+<rect x="1872.5" y="945.5" width="101" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1880.4" y="963.005">The Cuban Fixer</tspan></text>
+<rect x="1872.5" y="945.5" width="101" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1774.01" y="935.435">Prince</tspan></text>
+<rect x="1759.5" y="945.5" width="71" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1767.01" y="963.005">See Prince</tspan></text>
+<rect x="1759.5" y="945.5" width="71" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1731.1" y="1053.43">Bo Diddley</tspan></text>
+<rect x="1735.5" y="1061.5" width="103" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1760.97" y="1079">Not To Be&#10;</tspan><tspan x="1743.39" y="1094">Confused With...</tspan></text>
+<rect x="1735.5" y="1061.5" width="103" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1747.2" y="1169.43">Siouxsie &#38;&#10;</tspan><tspan x="1733.49" y="1191.43">The Banshees</tspan></text>
+<rect x="1734.5" y="1199.5" width="104" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1742.1" y="1217">The Spellbinders</tspan></text>
+<rect x="1734.5" y="1199.5" width="104" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1880.04" y="1224.43">Mike Clark</tspan></text>
+<rect x="1867.5" y="1178.5" width="101" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1875.01" y="1196">The Headhunter</tspan></text>
+<rect x="1867.5" y="1178.5" width="101" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1739.34" y="1277.43">Jungle Brothers</tspan></text>
+<rect x="1732.5" y="1283.5" width="124" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1740.27" y="1301">King of the Swingers</tspan></text>
+<rect x="1732.5" y="1283.5" width="124" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1564.36" y="1277.43">Gil Scott-Heron</tspan></text>
+<rect x="1566.5" y="1284.5" width="119" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1574.34" y="1302">The Revolution Will&#10;</tspan><tspan x="1581.79" y="1317">Not Be Televised</tspan></text>
+<rect x="1566.5" y="1284.5" width="119" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1616.04" y="1226.43">Last Poets</tspan></text>
+<rect x="1582.5" y="1145.5" width="112" height="56" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1598.49" y="1163">The Hustlers of&#10;</tspan><tspan x="1590.44" y="1178">Convention. Proto&#10;</tspan><tspan x="1616.87" y="1193">Rappers</tspan></text>
+<rect x="1582.5" y="1145.5" width="112" height="56" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1423.36" y="1277.43">Funkadelic</tspan></text>
+<rect x="1397.5" y="1284.5" width="138" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1405.27" y="1302">Who Says A Funk Band&#10;</tspan><tspan x="1423.69" y="1317">Can&#x2019;t Play Rock?</tspan></text>
+<rect x="1397.5" y="1284.5" width="138" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1399.46" y="1165.43">Parliament</tspan></text>
+<rect x="1405.5" y="1174.5" width="162" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1413.08" y="1192">The Mothership Connectors</tspan></text>
+<rect x="1405.5" y="1174.5" width="162" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1677.24" y="1369.43">The Kinks</tspan></text>
+<rect x="1605.5" y="1375.5" width="220" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1613.12" y="1393">The Village Green Preservation Society</tspan></text>
+<rect x="1605.5" y="1375.5" width="220" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1649.98" y="935.435">Phil&#10;</tspan><tspan x="1634.3" y="957.435">Spector</tspan></text>
+<rect x="1584.5" y="963.5" width="159" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1594.28" y="981.005">Phil Spector&#x2019;s Phil Spector.&#10;</tspan><tspan x="1592.27" y="996.005">The Teen Anthem Emperor</tspan></text>
+<rect x="1584.5" y="963.5" width="159" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2276.13" y="935.435">Arthur Baker</tspan></text>
+<rect x="2261.5" y="945.5" width="126" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2296.11" y="963.005">Mr. Freeze.&#10;</tspan><tspan x="2269.33" y="978.005">The B-Boys Revenge</tspan></text>
+<rect x="2261.5" y="945.5" width="126" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2442.16" y="935.435">Burning&#10;</tspan><tspan x="2449.51" y="957.435">Spear</tspan></text>
+<rect x="2400.5" y="964.5" width="140" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2408.31" y="982.005">The Marcus Garvey-ites</tspan></text>
+<rect x="2400.5" y="964.5" width="140" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2148.07" y="1016.43">Robert Johnson</tspan></text>
+<rect x="2281.5" y="998.5" width="199" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2289.13" y="1016">The Faust of Blues. The Deal Maker</tspan></text>
+<rect x="2281.5" y="998.5" width="199" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2149.26" y="1067.43">Bon Jovi</tspan></text>
+<rect x="2220.5" y="1049.5" width="178" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2228.06" y="1067">Richie Sambora&#x2019;s Backing Band</tspan></text>
+<rect x="2220.5" y="1049.5" width="178" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2148.47" y="1116.43">Steve Vai</tspan></text>
+<rect x="2228.5" y="1098.5" width="140" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2236.31" y="1116">He Had an Axe to Grind</tspan></text>
+<rect x="2228.5" y="1098.5" width="140" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2175.26" y="1206.43">Ike Turner</tspan></text>
+<rect x="2161.5" y="1143.5" width="99" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2182.32" y="1161">Al Capone.&#10;</tspan><tspan x="2169.49" y="1176">The Heavy Soul</tspan></text>
+<rect x="2161.5" y="1143.5" width="99" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2045.4" y="1224.43">Al Green</tspan></text>
+<rect x="2019.5" y="1177.5" width="89" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2027.33" y="1195">The Reverend</tspan></text>
+<rect x="2019.5" y="1177.5" width="89" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2051.31" y="1368.43">My Bloody Valentine</tspan></text>
+<rect x="2066.5" y="1376.5" width="123" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2074.14" y="1394">Cosmic Feedbackers</tspan></text>
+<rect x="2066.5" y="1376.5" width="123" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2010.31" y="1273.43">Joe Meek</tspan></text>
+<rect x="1920.5" y="1280.5" width="189" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1952.54" y="1298">The British Phil Spector.&#10;</tspan><tspan x="1928.12" y="1313">The Meek Shall Inherit The Earth.</tspan></text>
+<rect x="1920.5" y="1280.5" width="189" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2027.11" y="1140.43">Bob Dylan</tspan></text>
+<rect x="1924.5" y="1122.5" width="90" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1932.24" y="1140">The Hard Rain</tspan></text>
+<rect x="1924.5" y="1122.5" width="90" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1654.25" y="1127.43">Love</tspan></text>
+<rect x="1561.5" y="1109.5" width="83" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1569.25" y="1127">All You Need</tspan></text>
+<rect x="1561.5" y="1109.5" width="83" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1661.04" y="1076.43">XTC</tspan></text>
+<rect x="1530.5" y="1058.5" width="120" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1538.34" y="1076">The English Settlers</tspan></text>
+<rect x="1530.5" y="1058.5" width="120" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1391.21" y="1061.43">ESG</tspan></text>
+<rect x="1400.5" y="1014.5" width="202" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1408.25" y="1032">The Bronxski Beat. Disco Infiltrators</tspan></text>
+<rect x="1400.5" y="1014.5" width="202" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1469.36" y="930.435">Kraftwerk</tspan></text>
+<rect x="1265.5" y="939.5" width="293" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1273.4" y="957.005">Germanic Robotic Band. Afrika Bambaataa took their&#10;</tspan><tspan x="1286.91" y="972.005">Trans Europe Express all the way to Planet Rock</tspan></text>
+<rect x="1265.5" y="939.5" width="293" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1173.46" y="934.435">Neu</tspan></text>
+<rect x="1150.5" y="943.5" width="81" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1158.18" y="961.005">Foundations&#10;</tspan><tspan x="1159.03" y="976.005">of Krautrock</tspan></text>
+<rect x="1150.5" y="943.5" width="81" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="978.269" y="934.435">The Meters</tspan></text>
+<rect x="967.5" y="943.5" width="108" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="975.05" y="961.005">The Metronomics&#10;</tspan><tspan x="986.665" y="976.005">Of Breakbeat</tspan></text>
+<rect x="967.5" y="943.5" width="108" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="822.305" y="1051.43">Zapp</tspan></text>
+<rect x="822.5" y="1058.5" width="106" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="830.139" y="1076">Electro Shockers!</tspan></text>
+<rect x="822.5" y="1058.5" width="106" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="748.082" y="1001.43">Chic</tspan></text>
+<rect x="595.5" y="982.5" width="143" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="603.059" y="1000">The Last Days of Disco...</tspan></text>
+<rect x="595.5" y="982.5" width="143" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="593.055" y="1057.43">Rotary Connection</tspan></text>
+<rect x="613.5" y="1065.5" width="153" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="621.032" y="1083">Symphonic Soul Precision</tspan></text>
+<rect x="613.5" y="1065.5" width="153" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="616.03" y="1140.43">Bill Withers</tspan></text>
+<rect x="617.5" y="1148.5" width="156" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="625.4" y="1166">That Duck Could Sing Soul</tspan></text>
+<rect x="617.5" y="1148.5" width="156" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="579.13" y="1239.43">Cymande</tspan></text>
+<rect x="545.5" y="1247.5" width="149" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="553.352" y="1265">The Love Guns of Brixton</tspan></text>
+<rect x="545.5" y="1247.5" width="149" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="425.022" y="1210.43">Bernard Purdie</tspan></text>
+<rect x="436.5" y="1146.5" width="89" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="444.406" y="1164">Mr. Fix It Man.&#10;</tspan><tspan x="444.357" y="1179">The Hit Maker</tspan></text>
+<rect x="436.5" y="1146.5" width="89" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="999.098" y="1304.43">Steve Reich</tspan></text>
+<rect x="955.5" y="1242.5" width="154" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="979.707" y="1260">The Piano Tuner. It&#x2019;ll&#10;</tspan><tspan x="963.175" y="1275">Be All Reich On The Night.</tspan></text>
+<rect x="955.5" y="1242.5" width="154" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1146.49" y="790.435">Fred Neil</tspan></text>
+<rect x="1000.5" y="773.5" width="132" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1008.48" y="791.005">The Midnight Cowboy</tspan></text>
+<rect x="1000.5" y="773.5" width="132" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1144.22" y="838.435">Tom Tom Club</tspan></text>
+<rect x="1120.5" y="845.5" width="148" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1128.29" y="863.005">Electro Funk Daisy-Agers</tspan></text>
+<rect x="1120.5" y="845.5" width="148" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1131.28" y="742.435">Wire</tspan></text>
+<rect x="1019.5" y="724.5" width="101" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1027.3" y="742.005">The Art of Noise</tspan></text>
+<rect x="1019.5" y="724.5" width="101" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="418.141" y="872.435">Barry White</tspan></text>
+<rect x="404.5" y="826.5" width="117" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="412.372" y="844.005">The Walrus of Love</tspan></text>
+<rect x="404.5" y="826.5" width="117" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="325.422" y="1261.43">Denis Coffey</tspan></text>
+<rect x="303.5" y="1270.5" width="138" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="311.456" y="1288">Invite Me In For Coffey.&#10;</tspan><tspan x="320.316" y="1303">Motor City Funkster</tspan></text>
+<rect x="303.5" y="1270.5" width="138" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="318.32" y="1075.43">Curtis Mayfield</tspan></text>
+<rect x="278.5" y="1083.5" width="183" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="286.316" y="1101">We The People Who Are Darker&#10;</tspan><tspan x="294.142" y="1116">Than Blue. The Impressionist</tspan></text>
+<rect x="278.5" y="1083.5" width="183" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="176.197" y="951.435">Clyde Stubblefield</tspan></text>
+<rect x="188.5" y="959.5" width="125" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="196.232" y="977.005">The Funky Drummer</tspan></text>
+<rect x="188.5" y="959.5" width="125" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="333.452" y="936.435">Kool Keith</tspan></text>
+<rect x="337.5" y="942.5" width="70" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="345.184" y="960.005">Black Elvis</tspan></text>
+<rect x="337.5" y="942.5" width="70" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="510.492" y="931.435">Led Zeppelin</tspan></text>
+<rect x="499.5" y="939.5" width="120" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="507.291" y="957.005">A Whole Lotta Love</tspan></text>
+<rect x="499.5" y="939.5" width="120" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="271.48" y="716.435">Frank Zappa</tspan></text>
+<rect x="376.5" y="697.5" width="79" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="384.451" y="715.005">The Hot Rat</tspan></text>
+<rect x="376.5" y="697.5" width="79" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="271.011" y="763.435">AC/DC</tspan></text>
+<rect x="340.5" y="745.5" width="127" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="348.167" y="763.005">Rock&#x2019;s Own Alphabet</tspan></text>
+<rect x="340.5" y="745.5" width="127" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="607.322" y="804.435">Kiss</tspan></text>
+<rect x="346.5" y="786.5" width="252" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="354.197" y="804.005">God Gave Rock &#x2018;n&#x2019; Roll to Them. The Bollocks</tspan></text>
+<rect x="346.5" y="786.5" width="252" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="630.46" y="758.435">Cream</tspan></text>
+<rect x="508.5" y="740.5" width="109" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="516.218" y="758.005">The Strange Brew</tspan></text>
+<rect x="508.5" y="740.5" width="109" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="173.085" y="667.435">Blowfly</tspan></text>
+<rect x="86.5" y="649.5" width="80" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="94.2556" y="667.005">Sexy Smiles</tspan></text>
+<rect x="86.5" y="649.5" width="80" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="206.183" y="605.435">Jimi Hendrix</tspan></text>
+<rect x="195.5" y="558.5" width="109" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="203.076" y="576.005">The Voodoo Chile</tspan></text>
+<rect x="195.5" y="558.5" width="109" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="160.089" y="813.435">Taj Mahal</tspan></text>
+<rect x="103.5" y="822.5" width="123" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="111.13" y="840.005">The Temple of Blues</tspan></text>
+<rect x="103.5" y="822.5" width="123" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="176.126" y="1195.43">Philly Joe Jones</tspan></text>
+<rect x="306.5" y="1175.5" width="71" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="314.444" y="1193">Miles&#x2019; Man</tspan></text>
+<rect x="306.5" y="1175.5" width="71" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="163.181" y="1111.43">Main Source</tspan></text>
+<rect x="164.5" y="1119.5" width="89" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="172.086" y="1137">The Physicists</tspan></text>
+<rect x="164.5" y="1119.5" width="89" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="822.274" y="1114.43">The Creation</tspan></text>
+<rect x="822.5" y="1121.5" width="171" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="830.333" y="1139">In The Beginning There Was...</tspan></text>
+<rect x="822.5" y="1121.5" width="171" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="822.205" y="1175.43">The Shangri-Las</tspan></text>
+<rect x="822.5" y="1180.5" width="208" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="830.283" y="1198">They Can Never Go Home Any More</tspan></text>
+<rect x="822.5" y="1180.5" width="208" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="734.425" y="1259.43">Dusty Springfield</tspan></text>
+<rect x="743.5" y="1268.5" width="113" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="751.193" y="1286">The Northern Soul</tspan></text>
+<rect x="743.5" y="1268.5" width="113" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="732.954" y="1330.43">Toots and&#10;</tspan><tspan x="726.31" y="1352.43">the Maytals</tspan></text>
+<rect x="583.5" y="1312.5" width="135" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="591.107" y="1330">The Pressure Droppers</tspan></text>
+<rect x="583.5" y="1312.5" width="135" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="877.111" y="1365.43">Lord Kitchener</tspan></text>
+<rect x="877.5" y="1373.5" width="108" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="885.462" y="1391">The Grandmaster</tspan></text>
+<rect x="877.5" y="1373.5" width="108" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1107.02" y="1365.43">Son House</tspan></text>
+<rect x="1074.5" y="1373.5" width="142" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1082.25" y="1391">House of the Rising Son</tspan></text>
+<rect x="1074.5" y="1373.5" width="142" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1234.32" y="1365.43">Aretha Franklin</tspan></text>
+<rect x="1233.5" y="1373.5" width="115" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1241.25" y="1391">The Queen of Soul</tspan></text>
+<rect x="1233.5" y="1373.5" width="115" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1246.14" y="1299.43">Philip Glass</tspan></text>
+<rect x="1139.5" y="1281.5" width="93" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1147.28" y="1299">The Minimalist</tspan></text>
+<rect x="1139.5" y="1281.5" width="93" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="847.308" y="934.435">Pharoah&#10;</tspan><tspan x="847.721" y="956.435">Sanders</tspan></text>
+<rect x="822.5" y="963.5" width="115" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="830.314" y="981.005">Finger Lickin&#x2019; Good</tspan></text>
+<rect x="822.5" y="963.5" width="115" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1247.22" y="1111.43">James Brown</tspan></text>
+<rect x="1126.5" y="1119.5" width="220" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1134.08" y="1137">The Minister of New Super Heavy Funk</tspan></text>
+<rect x="1126.5" y="1119.5" width="220" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1227.28" y="1223.43">King Sunny Ade</tspan></text>
+<rect x="1190.5" y="1172.5" width="156" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1198.41" y="1190">The Minister of Enjoyment</tspan></text>
+<rect x="1190.5" y="1172.5" width="156" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="1243.46" y="1010.43">David Axelrod</tspan></text>
+<rect x="1100.5" y="1020.5" width="247" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1108.39" y="1038">Songs of Experiences. Proto Mullet Inventor</tspan></text>
+<rect x="1100.5" y="1020.5" width="247" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2014.03" y="1090.43">Johnny Cash</tspan></text>
+<rect x="1893.5" y="1072.5" width="105" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1901.18" y="1090">The Man In Black</tspan></text>
+<rect x="1893.5" y="1072.5" width="105" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2032.32" y="1042.43">Leadbelly</tspan></text>
+<rect x="1832.5" y="1024.5" width="185" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="1840.19" y="1042">Where Did He Sleep Last Night?</tspan></text>
+<rect x="1832.5" y="1024.5" width="185" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2278.2" y="1206.43">Betty Davis</tspan></text>
+<rect x="2276.5" y="1143.5" width="102" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2288.75" y="1161">Nasty Girl. She&#10;</tspan><tspan x="2284.14" y="1176">Liked a Big Freak</tspan></text>
+<rect x="2276.5" y="1143.5" width="102" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2442.2" y="1206.43">Afrika Bambaataa</tspan></text>
+<rect x="2444.5" y="1158.5" width="118" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2452.45" y="1176">It Began with Afrika</tspan></text>
+<rect x="2444.5" y="1158.5" width="118" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2485.33" y="1106.43">Aerosmith</tspan></text>
+<rect x="2424.5" y="1045.5" width="138" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2444.88" y="1063">Showed Run DMC&#10;</tspan><tspan x="2432.49" y="1078">How To Walk That Way</tspan></text>
+<rect x="2424.5" y="1045.5" width="138" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2369.71" y="1277.43">KC and the&#10;</tspan><tspan x="2354.17" y="1299.43">Sunshine Band</tspan></text>
+<rect x="2203.5" y="1268.5" width="134" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2211.48" y="1286">Miami Sound Machine</tspan></text>
+<rect x="2203.5" y="1268.5" width="134" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2562.23" y="1275.43">Dr. Dre</tspan></text>
+<rect x="2539.5" y="1282.5" width="109" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2547.45" y="1300">Rap&#x2019;s Phil Spector</tspan></text>
+<rect x="2539.5" y="1282.5" width="109" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2662.05" y="1333.43">ZZ Top</tspan></text>
+<rect x="2531.5" y="1315.5" width="118" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2539.48" y="1333">The Desert Rockers</tspan></text>
+<rect x="2531.5" y="1315.5" width="118" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2670.11" y="1375.43">Isaac Hayes</tspan></text>
+<rect x="2432.5" y="1357.5" width="227" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2440.46" y="1375">The Black Moses. The Hot Buttered Soul</tspan></text>
+<rect x="2432.5" y="1357.5" width="227" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2230.32" y="859.435">Ian Dury</tspan></text>
+<rect x="2241.5" y="793.5" width="180" height="41" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2282.15" y="811.005">The Poet Laureate.&#10;</tspan><tspan x="2249.34" y="826.005">Sex and Drugs and Rock &#x2018;n&#x2019; Roll</tspan></text>
+<rect x="2241.5" y="793.5" width="180" height="41" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="2854.02" y="789.435">Dr. John</tspan></text>
+<rect x="2835.5" y="797.5" width="106" height="26" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="2843" y="815.005">The Night Tripper</tspan></text>
+<rect x="2835.5" y="797.5" width="106" height="26" stroke="#CDCDCD"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="3029.4" y="749.435">Mandrill</tspan></text>
+<rect x="3006.5" y="757.5" width="91" height="56" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="12.6" letter-spacing="0em"><tspan x="3017.93" y="775.005">Planet of the&#10;</tspan><tspan x="3014.23" y="790.005">Apes. Darwin&#x2019;s&#10;</tspan><tspan x="3016.32" y="805.005">Backing Band</tspan></text>
+<rect x="3006.5" y="757.5" width="91" height="56" stroke="#CDCDCD"/>
+<circle cx="138.5" cy="138.5" r="9.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="589" cy="282" r="12" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="589" cy="282" r="12" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="780" cy="466" r="12" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="559" cy="898" r="11" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="829.5" cy="1329.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1073.5" cy="616.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1118" cy="249" r="11" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1353.5" cy="244.5" r="11.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2033.5" cy="244.5" r="11.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1507.5" cy="893" r="11.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1372.5" cy="1054.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1014.5" cy="898.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="851.5" cy="897.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2251.5" cy="442.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2415.5" cy="411.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="3159.5" cy="251.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="3165.5" cy="573.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="3243.5" cy="730.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="3243.5" cy="993.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="3162.5" cy="1369.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2420.5" cy="501.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2420.5" cy="717.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2222.5" cy="717.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2030.5" cy="654.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="1396.5" cy="719.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2198.5" cy="874.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2104.5" cy="902.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2401.5" cy="874.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2546.5" cy="874.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2584.5" cy="1101.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2660.5" cy="1241.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2510" cy="1233.5" r="11.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2185.5" cy="1233.5" r="11.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="2128.5" cy="1242.5" r="10.5" fill="white" stroke="black" stroke-width="4"/>
+<circle cx="350.5" cy="220.5" r="9.5" fill="white" stroke="black" stroke-width="4"/>
+<mask id="path-671-outside-1_5_24" maskUnits="userSpaceOnUse" x="1301" y="193" width="24" height="68" fill="black">
+<rect fill="white" x="1301" y="193" width="24" height="68"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1317 211.93C1319.39 210.547 1321 207.961 1321 205C1321 200.582 1317.42 197 1313 197C1308.58 197 1305 200.582 1305 205C1305 207.961 1306.61 210.547 1309 211.93V242.07C1306.61 243.453 1305 246.039 1305 249C1305 253.418 1308.58 257 1313 257C1317.42 257 1321 253.418 1321 249C1321 246.039 1319.39 243.453 1317 242.07V211.93Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1317 211.93C1319.39 210.547 1321 207.961 1321 205C1321 200.582 1317.42 197 1313 197C1308.58 197 1305 200.582 1305 205C1305 207.961 1306.61 210.547 1309 211.93V242.07C1306.61 243.453 1305 246.039 1305 249C1305 253.418 1308.58 257 1313 257C1317.42 257 1321 253.418 1321 249C1321 246.039 1319.39 243.453 1317 242.07V211.93Z" fill="white"/>
+<path d="M1317 211.93L1315 208.467L1313 209.623V211.93H1317ZM1309 211.93H1313V209.623L1311 208.467L1309 211.93ZM1309 242.07L1311 245.533L1313 244.377V242.07H1309ZM1317 242.07H1313V244.377L1315 245.533L1317 242.07ZM1319 215.392C1322.58 213.323 1325 209.447 1325 205H1317C1317 206.476 1316.2 207.77 1315 208.467L1319 215.392ZM1325 205C1325 198.373 1319.63 193 1313 193V201C1315.21 201 1317 202.791 1317 205H1325ZM1313 193C1306.37 193 1301 198.373 1301 205H1309C1309 202.791 1310.79 201 1313 201V193ZM1301 205C1301 209.447 1303.42 213.323 1307 215.392L1311 208.467C1309.8 207.77 1309 206.476 1309 205H1301ZM1313 242.07V211.93H1305V242.07H1313ZM1307 238.608C1303.42 240.677 1301 244.553 1301 249H1309C1309 247.524 1309.8 246.23 1311 245.533L1307 238.608ZM1301 249C1301 255.627 1306.37 261 1313 261V253C1310.79 253 1309 251.209 1309 249H1301ZM1313 261C1319.63 261 1325 255.627 1325 249H1317C1317 251.209 1315.21 253 1313 253V261ZM1325 249C1325 244.553 1322.58 240.677 1319 238.608L1315 245.533C1316.2 246.23 1317 247.524 1317 249H1325ZM1313 211.93V242.07H1321V211.93H1313Z" fill="black" mask="url(#path-671-outside-1_5_24)"/>
+<mask id="path-673-outside-2_5_24" maskUnits="userSpaceOnUse" x="1353" y="871" width="24" height="43" fill="black">
+<rect fill="white" x="1353" y="871" width="24" height="43"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1369 889.93C1371.39 888.547 1373 885.961 1373 883C1373 878.582 1369.42 875 1365 875C1360.58 875 1357 878.582 1357 883C1357 885.961 1358.61 888.547 1361 889.93V895.07C1358.61 896.453 1357 899.039 1357 902C1357 906.418 1360.58 910 1365 910C1369.42 910 1373 906.418 1373 902C1373 899.039 1371.39 896.453 1369 895.07V889.93Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1369 889.93C1371.39 888.547 1373 885.961 1373 883C1373 878.582 1369.42 875 1365 875C1360.58 875 1357 878.582 1357 883C1357 885.961 1358.61 888.547 1361 889.93V895.07C1358.61 896.453 1357 899.039 1357 902C1357 906.418 1360.58 910 1365 910C1369.42 910 1373 906.418 1373 902C1373 899.039 1371.39 896.453 1369 895.07V889.93Z" fill="white"/>
+<path d="M1369 889.93L1367 886.467L1365 887.623V889.93H1369ZM1361 889.93H1365V887.623L1363 886.467L1361 889.93ZM1361 895.07L1363 898.533L1365 897.377V895.07H1361ZM1369 895.07H1365V897.377L1367 898.533L1369 895.07ZM1371 893.392C1374.58 891.323 1377 887.447 1377 883H1369C1369 884.476 1368.2 885.77 1367 886.467L1371 893.392ZM1377 883C1377 876.373 1371.63 871 1365 871V879C1367.21 879 1369 880.791 1369 883H1377ZM1365 871C1358.37 871 1353 876.373 1353 883H1361C1361 880.791 1362.79 879 1365 879V871ZM1353 883C1353 887.447 1355.42 891.323 1359 893.392L1363 886.467C1361.8 885.77 1361 884.476 1361 883H1353ZM1365 895.07V889.93H1357V895.07H1365ZM1359 891.608C1355.42 893.677 1353 897.553 1353 902H1361C1361 900.524 1361.8 899.23 1363 898.533L1359 891.608ZM1353 902C1353 908.627 1358.37 914 1365 914V906C1362.79 906 1361 904.209 1361 902H1353ZM1365 914C1371.63 914 1377 908.627 1377 902H1369C1369 904.209 1367.21 906 1365 906V914ZM1377 902C1377 897.553 1374.58 893.677 1371 891.608L1367 898.533C1368.2 899.23 1369 900.524 1369 902H1377ZM1365 889.93V895.07H1373V889.93H1365Z" fill="black" mask="url(#path-673-outside-2_5_24)"/>
+<mask id="path-675-outside-3_5_24" maskUnits="userSpaceOnUse" x="1980" y="867" width="24" height="43" fill="black">
+<rect fill="white" x="1980" y="867" width="24" height="43"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1996 885.93C1998.39 884.547 2000 881.961 2000 879C2000 874.582 1996.42 871 1992 871C1987.58 871 1984 874.582 1984 879C1984 881.961 1985.61 884.547 1988 885.93V891.07C1985.61 892.453 1984 895.039 1984 898C1984 902.418 1987.58 906 1992 906C1996.42 906 2000 902.418 2000 898C2000 895.039 1998.39 892.453 1996 891.07V885.93Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1996 885.93C1998.39 884.547 2000 881.961 2000 879C2000 874.582 1996.42 871 1992 871C1987.58 871 1984 874.582 1984 879C1984 881.961 1985.61 884.547 1988 885.93V891.07C1985.61 892.453 1984 895.039 1984 898C1984 902.418 1987.58 906 1992 906C1996.42 906 2000 902.418 2000 898C2000 895.039 1998.39 892.453 1996 891.07V885.93Z" fill="white"/>
+<path d="M1996 885.93L1994 882.467L1992 883.623V885.93H1996ZM1988 885.93H1992V883.623L1990 882.467L1988 885.93ZM1988 891.07L1990 894.533L1992 893.377V891.07H1988ZM1996 891.07H1992V893.377L1994 894.533L1996 891.07ZM1998 889.392C2001.58 887.323 2004 883.447 2004 879H1996C1996 880.476 1995.2 881.77 1994 882.467L1998 889.392ZM2004 879C2004 872.373 1998.63 867 1992 867V875C1994.21 875 1996 876.791 1996 879H2004ZM1992 867C1985.37 867 1980 872.373 1980 879H1988C1988 876.791 1989.79 875 1992 875V867ZM1980 879C1980 883.447 1982.42 887.323 1986 889.392L1990 882.467C1988.8 881.77 1988 880.476 1988 879H1980ZM1992 891.07V885.93H1984V891.07H1992ZM1986 887.608C1982.42 889.677 1980 893.553 1980 898H1988C1988 896.524 1988.8 895.23 1990 894.533L1986 887.608ZM1980 898C1980 904.627 1985.37 910 1992 910V902C1989.79 902 1988 900.209 1988 898H1980ZM1992 910C1998.63 910 2004 904.627 2004 898H1996C1996 900.209 1994.21 902 1992 902V910ZM2004 898C2004 893.553 2001.58 889.677 1998 887.608L1994 894.533C1995.2 895.23 1996 896.524 1996 898H2004ZM1992 885.93V891.07H2000V885.93H1992Z" fill="black" mask="url(#path-675-outside-3_5_24)"/>
+<mask id="path-677-outside-4_5_24" maskUnits="userSpaceOnUse" x="1415" y="707" width="24" height="55" fill="black">
+<rect fill="white" x="1415" y="707" width="24" height="55"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1431 725.93C1433.39 724.547 1435 721.961 1435 719C1435 714.582 1431.42 711 1427 711C1422.58 711 1419 714.582 1419 719C1419 721.961 1420.61 724.547 1423 725.93V743.07C1420.61 744.453 1419 747.039 1419 750C1419 754.418 1422.58 758 1427 758C1431.42 758 1435 754.418 1435 750C1435 747.039 1433.39 744.453 1431 743.07V725.93Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1431 725.93C1433.39 724.547 1435 721.961 1435 719C1435 714.582 1431.42 711 1427 711C1422.58 711 1419 714.582 1419 719C1419 721.961 1420.61 724.547 1423 725.93V743.07C1420.61 744.453 1419 747.039 1419 750C1419 754.418 1422.58 758 1427 758C1431.42 758 1435 754.418 1435 750C1435 747.039 1433.39 744.453 1431 743.07V725.93Z" fill="white"/>
+<path d="M1431 725.93L1429 722.467L1427 723.623V725.93H1431ZM1423 725.93H1427V723.623L1425 722.467L1423 725.93ZM1423 743.07L1425 746.533L1427 745.377V743.07H1423ZM1431 743.07H1427V745.377L1429 746.533L1431 743.07ZM1433 729.392C1436.58 727.323 1439 723.447 1439 719H1431C1431 720.476 1430.2 721.77 1429 722.467L1433 729.392ZM1439 719C1439 712.373 1433.63 707 1427 707V715C1429.21 715 1431 716.791 1431 719H1439ZM1427 707C1420.37 707 1415 712.373 1415 719H1423C1423 716.791 1424.79 715 1427 715V707ZM1415 719C1415 723.447 1417.42 727.323 1421 729.392L1425 722.467C1423.8 721.77 1423 720.476 1423 719H1415ZM1427 743.07V725.93H1419V743.07H1427ZM1421 739.608C1417.42 741.677 1415 745.553 1415 750H1423C1423 748.524 1423.8 747.23 1425 746.533L1421 739.608ZM1415 750C1415 756.627 1420.37 762 1427 762V754C1424.79 754 1423 752.209 1423 750H1415ZM1427 762C1433.63 762 1439 756.627 1439 750H1431C1431 752.209 1429.21 754 1427 754V762ZM1439 750C1439 745.553 1436.58 741.677 1433 739.608L1429 746.533C1430.2 747.23 1431 748.524 1431 750H1439ZM1427 725.93V743.07H1435V725.93H1427Z" fill="black" mask="url(#path-677-outside-4_5_24)"/>
+<rect x="1227" y="265" width="6" height="12" transform="rotate(180 1227 265)" fill="#D52438"/>
+<rect x="1518" y="265" width="6" height="12" transform="rotate(180 1518 265)" fill="#D52438"/>
+<rect x="1680" y="265" width="6" height="12" transform="rotate(180 1680 265)" fill="#D52438"/>
+<rect x="2123.7" y="335.9" width="6" height="12" transform="rotate(-135 2123.7 335.9)" fill="#D52438"/>
+<rect x="2180.7" y="392.9" width="6" height="12" transform="rotate(-135 2180.7 392.9)" fill="#D52438"/>
+<rect x="1863.53" y="509.217" width="6" height="12" transform="rotate(-135 1863.53 509.217)" fill="#D52438"/>
+<rect x="1931.7" y="577.9" width="6" height="12" transform="rotate(-135 1931.7 577.9)" fill="#D52438"/>
+<rect x="1921" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="1796" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="1663" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="1669" y="904" width="6" height="12" transform="rotate(-180 1669 904)" fill="#D52438"/>
+<rect x="1802" y="904" width="6" height="12" transform="rotate(-180 1802 904)" fill="#D52438"/>
+<rect x="1927" y="904" width="6" height="12" transform="rotate(-180 1927 904)" fill="#D52438"/>
+<rect x="1857" y="729" width="6" height="12" transform="rotate(-180 1857 729)" fill="#D52438"/>
+<rect x="2005" y="729" width="6" height="12" transform="rotate(-180 2005 729)" fill="#D52438"/>
+<rect x="2155" y="729" width="6" height="12" transform="rotate(-180 2155 729)" fill="#D52438"/>
+<rect x="2127.5" y="1012.5" width="6" height="12" transform="rotate(-90 2127.5 1012.5)" fill="#D52438"/>
+<rect x="2127.5" y="1063.5" width="6" height="12" transform="rotate(-90 2127.5 1063.5)" fill="#D52438"/>
+<rect x="2127.5" y="1112.5" width="6" height="12" transform="rotate(-90 2127.5 1112.5)" fill="#D52438"/>
+<rect x="2117.5" y="1136.5" width="6" height="12" transform="rotate(-90 2117.5 1136.5)" fill="#D52438"/>
+<rect x="2321" y="1215" width="6" height="12" fill="#D52438"/>
+<rect x="2117.5" y="1086.5" width="6" height="12" transform="rotate(-90 2117.5 1086.5)" fill="#D52438"/>
+<rect x="2117.5" y="1038.5" width="6" height="12" transform="rotate(-90 2117.5 1038.5)" fill="#D52438"/>
+<rect x="1654" y="719" width="6" height="12" transform="rotate(-180 1654 719)" fill="#D52438"/>
+<rect x="934" y="895" width="6" height="12" transform="rotate(-180 934 895)" fill="#D52438"/>
+<rect x="1188" y="484" width="6" height="12" transform="rotate(-180 1188 484)" fill="#D52438"/>
+<rect x="1391" y="484" width="6" height="12" transform="rotate(-180 1391 484)" fill="#D52438"/>
+<rect x="2562" y="719" width="6" height="12" transform="rotate(-180 2562 719)" fill="#D52438"/>
+<rect x="2767.72" y="642.975" width="6" height="12" transform="rotate(135 2767.72 642.975)" fill="#D52438"/>
+<rect x="555.2" y="221.9" width="6" height="12" transform="rotate(45 555.2 221.9)" fill="#2B6B97"/>
+<rect x="639.2" y="305.9" width="6" height="12" transform="rotate(45 639.2 305.9)" fill="#2B6B97"/>
+<rect x="2417.72" y="358.717" width="6" height="12" transform="rotate(-90 2417.72 358.717)" fill="#2B6B97"/>
+<rect x="2417.72" y="310.717" width="6" height="12" transform="rotate(-90 2417.72 310.717)" fill="#2B6B97"/>
+<rect x="2417.72" y="261.717" width="6" height="12" transform="rotate(-90 2417.72 261.717)" fill="#2B6B97"/>
+<rect x="2417.72" y="214.717" width="6" height="12" transform="rotate(-90 2417.72 214.717)" fill="#2B6B97"/>
+<rect x="2417.72" y="166.717" width="6" height="12" transform="rotate(-90 2417.72 166.717)" fill="#2B6B97"/>
+<rect x="2316" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="2114" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="1904" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="1753" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="1595" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="1432" y="224" width="6" height="12" fill="#2B6B97"/>
+<rect x="1796" y="883.5" width="6" height="12" fill="#EBDC00"/>
+<rect x="1663" y="883.5" width="6" height="12" fill="#EBDC00"/>
+<rect x="2195" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="2041" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="2409" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="2588" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="2733.47" y="1315.78" width="6" height="12" transform="rotate(45 2733.47 1315.78)" fill="#2B6B97"/>
+<rect x="2775.47" y="1357.78" width="6" height="12" transform="rotate(45 2775.47 1357.78)" fill="#2B6B97"/>
+<rect x="1794" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="1915" y="1231" width="6" height="12" fill="#2B6B97"/>
+<rect x="1621" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="1651" y="1232" width="6" height="12" fill="#2B6B97"/>
+<rect x="1461" y="1241" width="6" height="12" fill="#2B6B97"/>
+<rect x="1376.5" y="1162.5" width="6" height="12" transform="rotate(-90 1376.5 1162.5)" fill="#2B6B97"/>
+<rect x="1292" y="1332" width="6" height="12" fill="#2B6B97"/>
+<rect x="1146" y="1332" width="6" height="12" fill="#2B6B97"/>
+<rect x="930" y="1332" width="6" height="12" fill="#2B6B97"/>
+<rect x="371" y="1228" width="6" height="12" fill="#2B6B97"/>
+<rect x="477" y="1217" width="6" height="12" fill="#2B6B97"/>
+<rect x="569.282" y="1212.03" width="6" height="12" transform="rotate(-45 569.282 1212.03)" fill="#2B6B97"/>
+<rect x="595.5" y="1137.5" width="6" height="12" transform="rotate(-90 595.5 1137.5)" fill="#2B6B97"/>
+<rect x="578.525" y="1068.22" width="6" height="12" transform="rotate(-135 578.525 1068.22)" fill="#2B6B97"/>
+<rect x="377" y="1054" width="6" height="12" transform="rotate(180 377 1054)" fill="#2B6B97"/>
+<rect x="441" y="217" width="6" height="12" transform="rotate(180 441 217)" fill="#2B6B97"/>
+<rect x="161.525" y="1205.22" width="6" height="12" transform="rotate(-135 161.525 1205.22)" fill="#2B6B97"/>
+<rect x="140.5" y="1107.5" width="6" height="12" transform="rotate(-90 140.5 1107.5)" fill="#2B6B97"/>
+<rect x="162.283" y="924.025" width="6" height="12" transform="rotate(-45 162.283 924.025)" fill="#2B6B97"/>
+<rect x="372" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="758" y="891" width="6" height="12" fill="#2B6B97"/>
+<rect x="801.5" y="993.5" width="6" height="12" transform="rotate(90 801.5 993.5)" fill="#D52438"/>
+<rect x="811.5" y="1039.5" width="6" height="12" transform="rotate(90 811.5 1039.5)" fill="#D52438"/>
+<rect x="811.5" y="1104.5" width="6" height="12" transform="rotate(90 811.5 1104.5)" fill="#D52438"/>
+<rect x="811.5" y="1164.5" width="6" height="12" transform="rotate(90 811.5 1164.5)" fill="#D52438"/>
+<rect x="1047" y="1325" width="6" height="12" transform="rotate(-180 1047 1325)" fill="#D52438"/>
+<rect x="1353.72" y="1306.97" width="6" height="12" transform="rotate(135 1353.72 1306.97)" fill="#D52438"/>
+<rect x="1368.5" y="1214.5" width="6" height="12" transform="rotate(90 1368.5 1214.5)" fill="#D52438"/>
+<rect x="1368.5" y="1101.5" width="6" height="12" transform="rotate(90 1368.5 1101.5)" fill="#D52438"/>
+<rect x="1368.5" y="1001.5" width="6" height="12" transform="rotate(90 1368.5 1001.5)" fill="#D52438"/>
+<rect x="1379.5" y="1156.5" width="6" height="12" transform="rotate(90 1379.5 1156.5)" fill="#D52438"/>
+<rect x="936" y="1336" width="6" height="12" transform="rotate(-180 936 1336)" fill="#D52438"/>
+<rect x="1152" y="1336" width="6" height="12" transform="rotate(-180 1152 1336)" fill="#D52438"/>
+<rect x="1298" y="1336" width="6" height="12" transform="rotate(-180 1298 1336)" fill="#D52438"/>
+<rect x="928" y="891" width="6" height="12" fill="#2B6B97"/>
+<rect x="1186" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="2323" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="2468" y="901" width="6" height="12" fill="#2B6B97"/>
+<rect x="2619.28" y="787.025" width="6" height="12" transform="rotate(-45 2619.28 787.025)" fill="#2B6B97"/>
+<rect x="2721" y="756" width="6" height="12" fill="#2B6B97"/>
+<rect x="2885" y="756" width="6" height="12" fill="#2B6B97"/>
+<rect x="3019.28" y="719.025" width="6" height="12" transform="rotate(-45 3019.28 719.025)" fill="#2B6B97"/>
+<rect x="3087.28" y="638.025" width="6" height="12" transform="rotate(-45 3087.28 638.025)" fill="#2B6B97"/>
+<rect x="2724" y="695.243" width="6" height="12" transform="rotate(-45 2724 695.243)" fill="#2B6B97"/>
+<rect x="2812" y="605.243" width="6" height="12" transform="rotate(-45 2812 605.243)" fill="#2B6B97"/>
+<rect x="2956" y="460.243" width="6" height="12" transform="rotate(-45 2956 460.243)" fill="#2B6B97"/>
+<rect x="3037" y="379.243" width="6" height="12" transform="rotate(-45 3037 379.243)" fill="#2B6B97"/>
+<rect x="3119" y="297.243" width="6" height="12" transform="rotate(-45 3119 297.243)" fill="#2B6B97"/>
+<rect x="1921" y="883.5" width="6" height="12" fill="#EBDC00"/>
+<rect x="768" y="594" width="6" height="12" fill="#EBDC00"/>
+<rect width="6" height="13" transform="translate(363.193 368) rotate(45)" fill="black"/>
+<rect x="363.193" y="368" width="6" height="12" transform="rotate(45 363.193 368)" fill="black"/>
+<rect x="887" y="615" width="6" height="12" fill="black"/>
+<rect x="737" y="720.243" width="6" height="12" transform="rotate(-45 737 720.243)" fill="black"/>
+<rect x="688" y="760.243" width="6" height="12" transform="rotate(-45 688 760.243)" fill="black"/>
+<rect x="646" y="807.243" width="6" height="12" transform="rotate(-45 646 807.243)" fill="black"/>
+<rect x="666.192" y="370" width="6" height="12" transform="rotate(45 666.192 370)" fill="#EBDC00"/>
+<rect x="716.192" y="420" width="6" height="12" transform="rotate(45 716.192 420)" fill="#EBDC00"/>
+<rect x="661" y="615" width="6" height="12" fill="black"/>
+<rect x="973" y="594" width="6" height="12" fill="#EBDC00"/>
+<rect x="1083" y="454" width="6" height="12" fill="#EBDC00"/>
+<rect x="1282" y="454" width="6" height="12" fill="#EBDC00"/>
+<rect x="1385" y="464" width="6" height="12" fill="#EBDC00"/>
+<rect x="1182" y="464" width="6" height="12" fill="#EBDC00"/>
+<rect x="1498" y="454" width="6" height="12" fill="#EBDC00"/>
+<rect x="1633" y="454" width="6" height="12" fill="#EBDC00"/>
+<rect x="1788" y="454" width="6" height="12" fill="#EBDC00"/>
+<rect x="1873.47" y="490.782" width="6" height="12" transform="rotate(45 1873.47 490.782)" fill="#EBDC00"/>
+<rect x="1915.47" y="518.782" width="6" height="12" transform="rotate(45 1915.47 518.782)" fill="#EBDC00"/>
+<rect x="1941.47" y="559.782" width="6" height="12" transform="rotate(45 1941.47 559.782)" fill="#EBDC00"/>
+<rect x="1982.47" y="585.782" width="6" height="12" transform="rotate(45 1982.47 585.782)" fill="#EBDC00"/>
+<rect x="2121" y="654" width="6" height="12" fill="#EBDC00"/>
+<rect x="2233.5" y="743.5" width="6" height="12" transform="rotate(90 2233.5 743.5)" fill="#EBDC00"/>
+<rect x="2222.5" y="808.5" width="6" height="12" transform="rotate(90 2222.5 808.5)" fill="#EBDC00"/>
+<rect x="2310.28" y="595.025" width="6" height="12" transform="rotate(-45 2310.28 595.025)" fill="#EBDC00"/>
+<rect x="2525" y="490" width="6" height="12" fill="#EBDC00"/>
+<rect x="2665" y="480" width="6" height="12" fill="#EBDC00"/>
+<rect x="2761" y="489" width="6" height="12" fill="#EBDC00"/>
+<rect x="2861" y="479" width="6" height="12" fill="#EBDC00"/>
+<rect x="2950.28" y="455.025" width="6" height="12" transform="rotate(-45 2950.28 455.025)" fill="#EBDC00"/>
+<rect x="2983.28" y="406.025" width="6" height="12" transform="rotate(-45 2983.28 406.025)" fill="#EBDC00"/>
+<rect x="3031.28" y="374.025" width="6" height="12" transform="rotate(-45 3031.28 374.025)" fill="#EBDC00"/>
+<rect x="3063.28" y="326.025" width="6" height="12" transform="rotate(-45 3063.28 326.025)" fill="#EBDC00"/>
+<rect x="3113.28" y="291.025" width="6" height="12" transform="rotate(-45 3113.28 291.025)" fill="#EBDC00"/>
+<rect x="369.193" y="362" width="6" height="12" transform="rotate(45 369.193 362)" fill="#EBDC00"/>
+<rect width="6" height="13" transform="translate(307.192 312) rotate(45)" fill="black"/>
+<rect x="307.192" y="312" width="6" height="12" transform="rotate(45 307.192 312)" fill="black"/>
+<rect width="6" height="13" transform="translate(426.192 430) rotate(45)" fill="black"/>
+<rect x="426.192" y="430" width="6" height="12" transform="rotate(45 426.192 430)" fill="black"/>
+<rect width="6" height="13" transform="translate(491.192 496) rotate(45)" fill="black"/>
+<rect x="491.192" y="496" width="6" height="12" transform="rotate(45 491.192 496)" fill="black"/>
+<rect width="6" height="13" transform="translate(722.192 413) rotate(45)" fill="black"/>
+<rect x="722.192" y="413" width="6" height="12" transform="rotate(45 722.192 413)" fill="black"/>
+<rect width="6" height="13" transform="translate(672.192 364) rotate(45)" fill="black"/>
+<rect x="672.192" y="364" width="6" height="12" transform="rotate(45 672.192 364)" fill="black"/>
+<rect width="6" height="13" transform="translate(633.192 312) rotate(45)" fill="black"/>
+<rect x="633.192" y="312" width="6" height="12" transform="rotate(45 633.192 312)" fill="black"/>
+<rect width="6" height="13" transform="translate(549.192 228) rotate(45)" fill="black"/>
+<rect x="549.192" y="228" width="6" height="12" transform="rotate(45 549.192 228)" fill="black"/>
+<rect width="6" height="13" transform="translate(434.718 214.218)" fill="black"/>
+<rect x="434.718" y="214.218" width="6" height="12" fill="black"/>
+<rect width="6" height="13" transform="translate(469.718 222.218)" fill="black"/>
+<rect x="469.718" y="222.218" width="6" height="12" fill="black"/>
+<rect width="6" height="13" transform="translate(558.192 561) rotate(45)" fill="black"/>
+<rect x="558.192" y="561" width="6" height="12" transform="rotate(45 558.192 561)" fill="black"/>
+<rect x="313.192" y="306" width="6" height="12" transform="rotate(45 313.192 306)" fill="#EBDC00"/>
+<rect x="432.192" y="424" width="6" height="12" transform="rotate(45 432.192 424)" fill="#EBDC00"/>
+<rect x="498.192" y="490" width="6" height="12" transform="rotate(45 498.192 490)" fill="#EBDC00"/>
+<rect x="973" y="604" width="6" height="12" fill="black"/>
+<rect x="850.475" y="526.782" width="6" height="12" transform="rotate(45 850.475 526.782)" fill="black"/>
+<rect x="1312.47" y="617.782" width="6" height="12" transform="rotate(45 1312.47 617.782)" fill="black"/>
+<rect x="564.192" y="555" width="6" height="12" transform="rotate(45 564.192 555)" fill="#EBDC00"/>
+<rect x="887" y="606" width="6" height="12" fill="#EBDC00"/>
+<rect x="661" y="606" width="6" height="12" fill="#EBDC00"/>
+<rect x="768" y="593" width="6" height="12" fill="#EBDC00"/>
+<rect x="768" y="604" width="6" height="12" fill="black"/>
+<rect x="460" y="882" width="6" height="12" fill="black"/>
+<rect x="372" y="894" width="6" height="12" fill="black"/>
+<rect x="250.5" y="805.5" width="6" height="12" transform="rotate(90 250.5 805.5)" fill="black"/>
+<rect x="261.5" y="752.5" width="6" height="12" transform="rotate(90 261.5 752.5)" fill="black"/>
+<rect x="261.5" y="705.5" width="6" height="12" transform="rotate(90 261.5 705.5)" fill="black"/>
+<rect x="251.5" y="659.5" width="6" height="12" transform="rotate(90 251.5 659.5)" fill="black"/>
+<rect x="979" y="164" width="6" height="12" fill="black"/>
+<rect x="1117" y="164" width="6" height="12" fill="black"/>
+<rect x="1262" y="164" width="6" height="12" fill="black"/>
+<rect x="3119" y="1061" width="6" height="12" fill="black"/>
+<rect x="3240.5" y="925.5" width="6" height="12" transform="rotate(90 3240.5 925.5)" fill="black"/>
+<rect x="2596.5" y="910.5" width="6" height="12" transform="rotate(90 2596.5 910.5)" fill="black"/>
+<rect x="2599.5" y="946.5" width="6" height="12" transform="rotate(90 2599.5 946.5)" fill="black"/>
+<rect x="3240.5" y="865.5" width="6" height="12" transform="rotate(90 3240.5 865.5)" fill="black"/>
+<rect x="3240.5" y="807.5" width="6" height="12" transform="rotate(90 3240.5 807.5)" fill="black"/>
+<rect x="3001" y="1352" width="6" height="12" fill="black"/>
+<rect x="2861" y="1352" width="6" height="12" fill="black"/>
+<rect x="2588" y="1233" width="6" height="12" fill="black"/>
+<rect x="2409" y="1233" width="6" height="12" fill="black"/>
+<rect x="2321" y="1223" width="6" height="12" fill="black"/>
+<rect x="2706.47" y="1261.78" width="6" height="12" transform="rotate(45 2706.47 1261.78)" fill="black"/>
+<rect x="2739.47" y="1309.78" width="6" height="12" transform="rotate(45 2739.47 1309.78)" fill="black"/>
+<rect x="2781.47" y="1351.78" width="6" height="12" transform="rotate(45 2781.47 1351.78)" fill="black"/>
+<rect x="3012" y="1061" width="6" height="12" fill="black"/>
+<rect x="2949" y="1050" width="6" height="12" fill="black"/>
+<rect x="2797" y="1050" width="6" height="12" fill="black"/>
+<rect x="2678" y="1050" width="6" height="12" fill="black"/>
+<rect x="2890" y="1061" width="6" height="12" fill="black"/>
+<rect x="2715" y="1061" width="6" height="12" fill="black"/>
+<rect x="1484.47" y="789.782" width="6" height="12" transform="rotate(45 1484.47 789.782)" fill="black"/>
+<rect x="1576" y="862" width="6" height="12" fill="black"/>
+<rect x="1663" y="874" width="6" height="12" fill="black"/>
+<rect x="1796" y="874" width="6" height="12" fill="black"/>
+<rect x="1921" y="874" width="6" height="12" fill="black"/>
+<rect x="1724" y="1160" width="6" height="12" transform="rotate(90 1724 1160)" fill="#EBDC00"/>
+<rect x="1724" y="1043" width="6" height="12" transform="rotate(90 1724 1043)" fill="#EBDC00"/>
+<rect x="1714" y="1118" width="6" height="12" transform="rotate(90 1714 1118)" fill="#EBDC00"/>
+<rect x="1714" y="1067" width="6" height="12" transform="rotate(90 1714 1067)" fill="#EBDC00"/>
+<rect x="1576" y="871.5" width="6" height="12" fill="#EBDC00"/>
+<rect x="1279.19" y="820" width="6" height="12" transform="rotate(45 1279.19 820)" fill="#EBDC00"/>
+<rect x="1233.19" y="774" width="6" height="12" transform="rotate(45 1233.19 774)" fill="#EBDC00"/>
+<rect x="1184.19" y="724" width="6" height="12" transform="rotate(45 1184.19 724)" fill="#EBDC00"/>
+<rect x="1139.19" y="664" width="6" height="12" transform="rotate(45 1139.19 664)" fill="#EBDC00"/>
+<rect x="627.192" y="318" width="6" height="12" transform="rotate(45 627.192 318)" fill="#EBDC00"/>
+<rect x="862.217" y="303.718" width="6" height="12" transform="rotate(90 862.217 303.718)" fill="#EBDC00"/>
+<rect x="872.217" y="324.718" width="6" height="12" transform="rotate(90 872.217 324.718)" fill="#EBDC00"/>
+<rect x="872.217" y="403.718" width="6" height="12" transform="rotate(90 872.217 403.718)" fill="#EBDC00"/>
+<rect x="862.217" y="378.718" width="6" height="12" transform="rotate(90 862.217 378.718)" fill="#EBDC00"/>
+<rect x="999.717" y="245.218" width="6" height="12" transform="rotate(-180 999.717 245.218)" fill="#EBDC00"/>
+<rect x="1227" y="256" width="6" height="12" transform="rotate(-180 1227 256)" fill="#EBDC00"/>
+<rect x="1438" y="245" width="6" height="12" transform="rotate(-180 1438 245)" fill="#EBDC00"/>
+<rect x="1600.72" y="245.218" width="6" height="12" transform="rotate(-180 1600.72 245.218)" fill="#EBDC00"/>
+<rect x="1758.72" y="245.218" width="6" height="12" transform="rotate(-180 1758.72 245.218)" fill="#EBDC00"/>
+<rect x="1909.72" y="245.218" width="6" height="12" transform="rotate(-180 1909.72 245.218)" fill="#EBDC00"/>
+<rect x="2119.72" y="245.218" width="6" height="12" transform="rotate(-180 2119.72 245.218)" fill="#EBDC00"/>
+<rect x="2129.24" y="330.435" width="6" height="12" transform="rotate(-135 2129.24 330.435)" fill="#EBDC00"/>
+<rect x="2186.24" y="387.435" width="6" height="12" transform="rotate(-135 2186.24 387.435)" fill="#EBDC00"/>
+<rect x="2321.72" y="245.218" width="6" height="12" transform="rotate(-180 2321.72 245.218)" fill="#EBDC00"/>
+<rect x="2409.22" y="310.718" width="6" height="12" transform="rotate(-90 2409.22 310.718)" fill="#EBDC00"/>
+<rect x="2409.22" y="358.718" width="6" height="12" transform="rotate(-90 2409.22 358.718)" fill="#EBDC00"/>
+<rect x="1517.72" y="256.218" width="6" height="12" transform="rotate(-180 1517.72 256.218)" fill="#EBDC00"/>
+<rect x="1518" y="257" width="6" height="12" transform="rotate(-180 1518 257)" fill="#EBDC00"/>
+<rect x="1680" y="256" width="6" height="12" transform="rotate(-180 1680 256)" fill="#EBDC00"/>
+<rect x="2218.72" y="255.218" width="6" height="12" transform="rotate(-180 2218.72 255.218)" fill="#EBDC00"/>
+<rect x="2989.5" y="412.243" width="6" height="12" transform="rotate(-45 2989.5 412.243)" fill="#2B6B97"/>
+<rect x="3069.5" y="332.243" width="6" height="12" transform="rotate(-45 3069.5 332.243)" fill="#2B6B97"/>
+<rect x="2213" y="235" width="6" height="12" fill="#2B6B97"/>
+<rect x="1512" y="235" width="6" height="12" fill="#2B6B97"/>
+<rect x="2861" y="1362" width="6" height="12" fill="#2B6B97"/>
+<rect x="3001" y="1362" width="6" height="12" fill="#2B6B97"/>
+<rect x="1582" y="893" width="6" height="12" transform="rotate(-180 1582 893)" fill="#D52438"/>
+<rect x="2730.72" y="692.975" width="6" height="12" transform="rotate(135 2730.72 692.975)" fill="#D52438"/>
+<rect x="2819.72" y="603.975" width="6" height="12" transform="rotate(135 2819.72 603.975)" fill="#D52438"/>
+<rect x="3004" y="574" width="6" height="12" transform="rotate(-180 3004 574)" fill="#D52438"/>
+<rect x="3235.5" y="657.5" width="6" height="12" transform="rotate(-90 3235.5 657.5)" fill="#D52438"/>
+<rect x="3236.5" y="813.5" width="6" height="12" transform="rotate(-90 3236.5 813.5)" fill="#D52438"/>
+<rect x="3236.5" y="871.5" width="6" height="12" transform="rotate(-90 3236.5 871.5)" fill="#D52438"/>
+<rect x="3236.5" y="931.5" width="6" height="12" transform="rotate(-90 3236.5 931.5)" fill="#D52438"/>
+<rect x="1288" y="474" width="6" height="12" transform="rotate(-180 1288 474)" fill="#D52438"/>
+<rect x="1504" y="474" width="6" height="12" transform="rotate(-180 1504 474)" fill="#D52438"/>
+<rect x="1639" y="474" width="6" height="12" transform="rotate(-180 1639 474)" fill="#D52438"/>
+<rect x="1794" y="474" width="6" height="12" transform="rotate(-180 1794 474)" fill="#D52438"/>
+<rect x="1905.7" y="536.9" width="6" height="12" transform="rotate(-135 1905.7 536.9)" fill="#D52438"/>
+<rect x="1972.7" y="603.9" width="6" height="12" transform="rotate(-135 1972.7 603.9)" fill="#D52438"/>
+<rect x="1910" y="253" width="6" height="12" transform="rotate(180 1910 253)" fill="#D52438"/>
+<rect x="1759" y="253" width="6" height="12" transform="rotate(180 1759 253)" fill="#D52438"/>
+<rect x="1601" y="253" width="6" height="12" transform="rotate(180 1601 253)" fill="#D52438"/>
+<rect x="1438" y="253" width="6" height="12" transform="rotate(180 1438 253)" fill="#D52438"/>
+<rect x="1674" y="236" width="6" height="12" fill="#2B6B97"/>
+<rect x="2700.47" y="1267.78" width="6" height="12" transform="rotate(45 2700.47 1267.78)" fill="#2B6B97"/>
+<rect x="1347.28" y="1309.03" width="6" height="12" transform="rotate(-45 1347.28 1309.03)" fill="#2B6B97"/>
+<rect x="1365.5" y="1107.5" width="6" height="12" transform="rotate(-90 1365.5 1107.5)" fill="#2B6B97"/>
+<rect x="1365.5" y="1007.5" width="6" height="12" transform="rotate(-90 1365.5 1007.5)" fill="#2B6B97"/>
+<rect x="1365.5" y="1220.5" width="6" height="12" transform="rotate(-90 1365.5 1220.5)" fill="#2B6B97"/>
+<rect x="2409" y="1224" width="6" height="12" fill="#D52438"/>
+<rect x="72" y="1300" width="104" height="9" fill="black"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="185" y="1310.43">Murdoc</tspan></text>
+<rect x="72" y="1332" width="104" height="9" fill="#EBDC00"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="185" y="1342.43">2D</tspan></text>
+<rect x="72" y="1364" width="104" height="9" fill="#D52438"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="185" y="1374.43">Noodle</tspan></text>
+<rect x="72" y="1396" width="104" height="9" fill="#2B6B97"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Cabin" font-size="18" letter-spacing="0em"><tspan x="185" y="1406.43">Russel</tspan></text>
 </g>
 <defs>
 <clipPath id="clip0_5_24">

@@ -15,12 +15,23 @@
        io/resource
        slurp))
 
+
+
+
+(defn svg-with-font []
+  (let [doc (Jsoup/parseBodyFragment (good-svg) "UTF-8")
+        svg (.selectFirst doc "svg")]
+    (-> doc .outputSettings (.prettyPrint false))
+    (-> svg
+        (.prepend "<style>@import url(\"https://fonts.googleapis.com/css2?family=Cabin\");</style>")
+        str)))
+
 (defn best-svg []
   (let [doc (Jsoup/parseBodyFragment (good-svg) "UTF-8")
         artists (.select doc "#Bands > g")]
     (-> doc .outputSettings (.prettyPrint false))
     (run! (fn [artist-g]
-            (.wrap artist-g "<a xlink:href=\"https://google.com\"></a>"))
+            (.wrap artist-g "<a target=\"_blank\" rel=\"noopener noreferrer\" xlink:href=\"https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX?si=dJpOVOZDR0-bFSxZtLhZl\"></a>"))
           artists)
     (str (.selectFirst doc "svg")))
   )
@@ -67,6 +78,4 @@
   (document
    {:title "RotO Tube"
     :js ["/js/tube.js"]}
-   [:div
-    [:h1 "Tube Map"]
-    (best-svg)]))
+   [:div (svg-with-font)]))
