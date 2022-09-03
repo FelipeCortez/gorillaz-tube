@@ -1,5 +1,6 @@
 (ns site.templates.base
   (:require [hiccup.core :refer [html]]
+            [clojure.java.io :as io]
             [hiccup.page :refer [doctype include-css include-js]]
             [hiccup.util]))
 
@@ -34,7 +35,8 @@
       (metadata page-description)
       etc
       (apply include-js js)
-      (apply include-css css)
+      #_(apply include-css css)
+      [:style (slurp (io/resource "public/reset.css"))]
       (analytics)])))
 
 (defn body [content]

@@ -19,6 +19,5 @@
 
 (defn tube-page []
   (document
-   {:title "Gorillaz musical influences tube map from Rise of the Ogre"
-    :js ["/js/tube.js"]}
-   [:div (svg-with-font)]))
+   {:title "Gorillaz music influences tube map from Rise of the Ogre"}
+   (svg-with-font)))
